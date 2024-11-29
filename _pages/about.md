@@ -17,8 +17,6 @@ My research focuses on **Generalizable Machine Learning (GML)** and its applicat
 
 🤝 **Looking for collaborations and opportunities to work on impactful projects!**
 
----
-
 # 🔍 Research Interests
 
 My research aims to tackle real-world challenges in **Generalizable Machine Learning (GML)** and **Trustworthy AI**, focusing on the following:
@@ -27,8 +25,6 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **Robust Learning with Noisy and Unlabeled Data**: Leveraging weak supervision to enhance model robustness across tasks.
 - **Fairness and Interpretability in AI**: Developing fairness-aware GML frameworks and interpretable AI methods for socially impactful applications.
 
----
-
 # 🔥 News and Updates
 
 - *2024.09*: &nbsp;🎉 One paper, **"Mixture of Demonstrations for In-Context Learning,"** is accepted at **NeurIPS 2024**! 
@@ -36,8 +32,6 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - *2024.08*: &nbsp;🎉 One paper on **Fairness in Large Language Models** is accepted at **NeurIPS SoLaR Spotlight**!
 - *2024.07*: &nbsp;🎉 Honored to co-author **"Knowledge Editing for Large Language Models: A Survey,"** accepted at **ACM Computing Surveys**.
 - *2024.03*: &nbsp;🎉 One paper, **"Federated Graph Learning with Graphless Clients,"** is accepted at **TMLR 2024**.
-
----
 
 # 📝 Publications
 
