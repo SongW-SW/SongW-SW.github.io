@@ -9,7 +9,19 @@ redirect_from:
 
 # 🎓 _About Me_
 
-🏫 I am currently a fifth-year Ph.D. student in the **Department of Electrical and Computer Engineering** at the **University of Virginia**, where I am advised by **Prof. Jundong Li**. Before joining UVA, I earned my B.E. in **Electronic Engineering** from **Tsinghua University** in 2020, where my diploma thesis was advised by **Prof. Ji Wu**.
+🏫 I am currently a fifth-year Ph.D. student in the 
+<a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Department of Electrical and Computer Engineering</a> 
+at the 
+<a href="https://www.virginia.edu/" target="_blank">University of Virginia</a>, 
+where I am advised by 
+<a href="https://jundongli.github.io/" target="_blank">Prof. Jundong Li</a>. 
+Before joining UVA, I earned my B.E. in 
+<a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Electronic Engineering</a> 
+from 
+<a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a> 
+in 2020, where my diploma thesis was advised by 
+<a href="https://www.ee.tsinghua.edu.cn/info/1083/1658.htm" target="_blank">Prof. Ji Wu</a>.
+
 
 📝 My research focuses on **Generalizable Machine Learning (GML)** and its applications in **trustworthy AI solutions**. My work spans diverse data modalities, including **graphs**, **knowledge bases**, and **text**, with the aim of ensuring fairness, interpretability, and efficiency in AI systems.
 
