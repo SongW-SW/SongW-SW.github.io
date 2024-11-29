@@ -15,9 +15,9 @@ redirect_from:
 
 
 
-🤝 **Looking for collaborations and opportunities to work on impactful projects!**
+🤝 **Looking for collaborations to work on impactful projects!**
 
-💼 **<span style="color: red;"> Looking for Faculty Positions!</span>**
+💼 **<span style="color: red;"> Looking for faculty positions! Please share with me the opportunities! Thank you so much!</span>**
 
 # 🔍 _Research Interests_
 
