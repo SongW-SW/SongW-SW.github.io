@@ -11,15 +11,15 @@ redirect_from:
 
 I am currently a fifth-year Ph.D. student in the **Department of Electrical and Computer Engineering** at the **University of Virginia**, where I am advised by **Prof. Jundong Li**. Before joining UVA, I earned my B.E. in **Electronic Engineering** from **Tsinghua University** in 2020, where my diploma thesis was advised by **Prof. Ji Wu**.
 
-My research lies at the intersection of **Machine Learning** and **Artificial Intelligence**, focusing on **Generalizable Machine Learning (GML)** and its applications in **trustworthy AI solutions**. My work spans diverse data modalities, including **graphs**, **knowledge bases**, and **text**, with the aim of ensuring fairness, interpretability, and efficiency in AI systems.
+My research focuses on **Generalizable Machine Learning (GML)** and its applications in **trustworthy AI solutions**. My work spans diverse data modalities, including **graphs**, **knowledge bases**, and **text**, with the aim of ensuring fairness, interpretability, and efficiency in AI systems.
 
-🔍 My research philosophy centers on building models that **generalize** effectively across diverse and unseen scenarios, while addressing critical concerns like **bias mitigation**, **data efficiency**, and **trustworthiness**. 
+
 
 🤝 **Looking for collaborations and opportunities to work on impactful projects!**
 
 ---
 
-# Research Interests
+# 🔍 Research Interests
 
 My research aims to tackle real-world challenges in **Generalizable Machine Learning (GML)** and **Trustworthy AI**, focusing on the following:
 
