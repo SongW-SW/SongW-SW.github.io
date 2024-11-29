@@ -20,7 +20,7 @@ Before joining UVA, I earned my B.E. in
 from 
 <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a> 
 in 2020, where my diploma thesis was advised by 
-<a href="https://www.ee.tsinghua.edu.cn/info/1083/1658.htm" target="_blank">Prof. Ji Wu</a>.
+<a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
 
 📝 My research focuses on **Generalizable Machine Learning (GML)** and its applications in **trustworthy AI solutions**. My work spans diverse data modalities, including **graphs**, **knowledge bases**, and **text**, with the aim of ensuring fairness, interpretability, and efficiency in AI systems.
