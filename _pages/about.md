@@ -53,22 +53,15 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 [View Full Publication List](#)
 
----
-
-
 # 📖 _Education_
 
 - **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020-Present)  
 - **Tsinghua University**: B.E. in Electronic Engineering (2016-2020)  
 
----
-
 # 💁 _Service and Volunteering_
 
 - Conference Reviewer: NeurIPS, ICML, ACL, SIGKDD, NAACL, EMNLP.  
 - Mentorship: Directly supervised 6 undergraduate and graduate students, many of whom have published at top venues like **NAACL** and **NeurIPS**.  
-
----
 
 # 🎨 _Hobbies and Interests_
 Beyond research, I enjoy:  
@@ -76,6 +69,5 @@ Beyond research, I enjoy:
 🎮 **Esports and gaming**, especially competitive League of Legends (Top 0.5% in NA server).  
 🌟 Exploring innovative applications of AI for social good.
 
----
 
 Feel free to contact me for collaborations, research discussions, or just to connect!  
