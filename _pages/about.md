@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 🎓 _About Me_
+## 🎓 _About Me_
 
 🏫 I am currently a fifth-year Ph.D. student in the 
 <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Department of Electrical and Computer Engineering</a> 
@@ -31,7 +31,7 @@ in 2020, where my diploma thesis was advised by
 
 💼 **<span style="color: red;"> I am actively seeking faculty positions! I would greatly appreciate it if you could share any opportunities. Thank you!</span>**
 
-# 🔍 _Research Interests_
+## 🔍 _Research Interests_
 
 My research aims to tackle real-world challenges in **Generalizable Machine Learning (GML)** and **Trustworthy AI**, focusing on the following:
 
@@ -39,7 +39,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **Robust Learning with Noisy and Unlabeled Data**: Leveraging weak supervision to enhance model robustness across tasks.
 - **Fairness and Interpretability in AI**: Developing fairness-aware GML frameworks and interpretable AI methods for socially impactful applications.
 
-# 🔥 _News and Updates_
+## 🔥 _News and Updates_
 - *2024.10*: &nbsp;🎉 Two papers are accepted at **EMNLP Main 2024**!
 - *2024.10*: &nbsp;🎉 Two papers on **Fairness in Large Language Models** are accepted at **NeurIPS SoLaR** (one spotlight)!
 - *2024.10*: &nbsp;🎉 One paper, **"Mixture of Demonstrations for In-Context Learning,"** is accepted at **NeurIPS 2024**!
@@ -50,7 +50,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - *2024.09*: &nbsp;🎉 Our survey **"Knowledge Editing for Large Language Models: A Survey,"** is accepted at **ACM Computing Surveys**.
 - *2024.07*: &nbsp;🎉 One paper, **"Understanding and Modeling Job Marketplace with Pretrained Language Models,"** is accepted at **CIKM 2024 Applied Research Track**!
 
-# 📜 _Publications_
+## 📜 _Publications_
 
 ### **2024**
 - **NeurIPS**: *Mixture of Demonstrations for In-Context Learning*  
@@ -70,17 +70,17 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
 
-# 📖 _Education_
+## 📖 _Education_
 
 - **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020-Present)  
 - **Tsinghua University**: B.E. in Electronic Engineering (2016-2020)  
 
-# 💁 _Service and Volunteering_
+## 💁 _Service and Volunteering_
 
 - Conference Reviewer: NeurIPS, ICML, ACL, SIGKDD, NAACL, EMNLP.  
 - Mentorship: Directly supervised 6 undergraduate and graduate students, many of whom have published at top venues like **NAACL** and **NeurIPS**.  
 
-# 🐱 _Hobbies and Interests_
+## 🐱 _Hobbies and Interests_
 Beyond research, I enjoy:  
 🎤 **Singing and playing music** (piano, guitar).  
 🎮 **Esports and gaming**, especially competitive League of Legends (Top 0.5% in NA server).  
