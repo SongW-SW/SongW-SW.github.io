@@ -68,7 +68,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ACL Findings**: *FastGAS: Fast Graph-based Annotation Selection for In-Context Learning*  
   Zihan Chen, **Song Wang**, Cong Shen, Jundong Li.  
 
-[View Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
+[Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
 
 # 📖 _Education_
 
