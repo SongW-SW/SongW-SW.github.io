@@ -28,11 +28,12 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **Fairness and Interpretability in AI**: Developing fairness-aware GML frameworks and interpretable AI methods for socially impactful applications.
 
 # 🔥 _News and Updates_
-- *2024.10*: &nbsp;🎉 Two papers are accepted at **EMNLP Main 2024**! 
-- *2024.09*: &nbsp;🎉 One paper, **"Mixture of Demonstrations for In-Context Learning,"** is accepted at **NeurIPS 2024**! 
+- *2024.10*: &nbsp;🎉 Two papers are accepted at **EMNLP Main 2024**!
+- *2024.10*: &nbsp;🎉 One paper on **Fairness in Large Language Models** is accepted at **NeurIPS SoLaR Spotlight**!
+- *2024.10*: &nbsp;🎉 One paper, **"Mixture of Demonstrations for In-Context Learning,"** is accepted at **NeurIPS 2024**!
+- *2024.10*: &nbsp;🎉 One paper is accepted at **TMLR**! 
 - *2024.09*: &nbsp;🎉 Published **"Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization"** at **ICDM 2024**.
-- *2024.08*: &nbsp;🎉 One paper on **Fairness in Large Language Models** is accepted at **NeurIPS SoLaR Spotlight**!
-- *2024.07*: &nbsp;🎉 Our survey **"Knowledge Editing for Large Language Models: A Survey,"** is accepted at **ACM Computing Surveys**.
+- *2024.09*: &nbsp;🎉 Our survey **"Knowledge Editing for Large Language Models: A Survey,"** is accepted at **ACM Computing Surveys**.
 - *2024.03*: &nbsp;🎉 One paper, **"Federated Graph Learning with Graphless Clients,"** is accepted at **TMLR 2024**.
 
 # 📜 _Publications_
