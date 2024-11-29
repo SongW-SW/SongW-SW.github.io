@@ -79,7 +79,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 # 🎨 Hobbies and Interests
 Beyond research, I enjoy:  
 🎤 **Singing and playing music** (piano, guitar).  
-🎮 **Esports and gaming**, especially competitive League of Legends.  
+🎮 **Esports and gaming**, especially competitive League of Legends (Top 0.5% in NA server).  
 🌟 Exploring innovative applications of AI for social good.
 
 ---
