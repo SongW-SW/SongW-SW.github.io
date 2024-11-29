@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-# _About Me_
+# 🎓 _About Me_
 
-I am currently a fifth-year Ph.D. student in the **Department of Electrical and Computer Engineering** at the **University of Virginia**, where I am advised by **Prof. Jundong Li**. Before joining UVA, I earned my B.E. in **Electronic Engineering** from **Tsinghua University** in 2020, where my diploma thesis was advised by **Prof. Ji Wu**.
+🏫 I am currently a fifth-year Ph.D. student in the **Department of Electrical and Computer Engineering** at the **University of Virginia**, where I am advised by **Prof. Jundong Li**. Before joining UVA, I earned my B.E. in **Electronic Engineering** from **Tsinghua University** in 2020, where my diploma thesis was advised by **Prof. Ji Wu**.
 
-My research focuses on **Generalizable Machine Learning (GML)** and its applications in **trustworthy AI solutions**. My work spans diverse data modalities, including **graphs**, **knowledge bases**, and **text**, with the aim of ensuring fairness, interpretability, and efficiency in AI systems.
+📝 My research focuses on **Generalizable Machine Learning (GML)** and its applications in **trustworthy AI solutions**. My work spans diverse data modalities, including **graphs**, **knowledge bases**, and **text**, with the aim of ensuring fairness, interpretability, and efficiency in AI systems.
 
 
 
 🤝 **Looking for collaborations and opportunities to work on impactful projects!**
+
+💼 **<span style="color: red;"> Looking for Faculty Positions!</span>**
 
 # 🔍 _Research Interests_
 
@@ -33,7 +35,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - *2024.07*: &nbsp;🎉 Honored to co-author **"Knowledge Editing for Large Language Models: A Survey,"** accepted at **ACM Computing Surveys**.
 - *2024.03*: &nbsp;🎉 One paper, **"Federated Graph Learning with Graphless Clients,"** is accepted at **TMLR 2024**.
 
-# 📝 _Publications_
+# 📜 _Publications_
 
 ### **2024**
 - **NeurIPS**: *Mixture of Demonstrations for In-Context Learning*  
@@ -63,7 +65,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - Conference Reviewer: NeurIPS, ICML, ACL, SIGKDD, NAACL, EMNLP.  
 - Mentorship: Directly supervised 6 undergraduate and graduate students, many of whom have published at top venues like **NAACL** and **NeurIPS**.  
 
-# 🎨 _Hobbies and Interests_
+# 🐱 _Hobbies and Interests_
 Beyond research, I enjoy:  
 🎤 **Singing and playing music** (piano, guitar).  
 🎮 **Esports and gaming**, especially competitive League of Legends (Top 0.5% in NA server).  
