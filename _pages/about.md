@@ -29,7 +29,7 @@ in 2020, where my diploma thesis was advised by
 
 🤝 **Looking for collaborations to work on impactful projects!**
 
-💼 **<span style="color: red;"> Looking for faculty positions! Please share with me the opportunities! Thank you so much!</span>**
+💼 **<span style="color: red;"> I am actively seeking faculty positions! I would greatly appreciate it if you could share any opportunities. Thank you!</span>**
 
 # 🔍 _Research Interests_
 
