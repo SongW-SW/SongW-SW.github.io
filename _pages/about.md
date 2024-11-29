@@ -50,7 +50,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - *2024.09*: &nbsp;🎉 Our survey **"Knowledge Editing for Large Language Models: A Survey,"** is accepted at **ACM Computing Surveys**.
 - *2024.07*: &nbsp;🎉 One paper, **"Understanding and Modeling Job Marketplace with Pretrained Language Models,"** is accepted at **CIKM 2024 Applied Research Track**!
 - *2024.05*: &nbsp;🎉 Two papers are accepted at **ACL 2024 Findings**!
-- *2024.02*: &nbsp;🎉 Our papers, **Interpreting Pretrained Language Models via Concept Bottlenecks**, is accepted at **PAKDD 2024 with <span style="color: red;">Best Paper Award</span>**!
+- *2024.02*: &nbsp;🎉 Our paper, **Interpreting Pretrained Language Models via Concept Bottlenecks**, is accepted at **PAKDD 2024 with <span style="color: red;">Best Paper Award</span>**!
 
 ## 📜 _Publications_
 
