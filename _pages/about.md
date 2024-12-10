@@ -40,6 +40,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **Fairness and Interpretability in AI**: Developing fairness-aware GML frameworks and interpretable AI methods for socially impactful applications.
 
 ## 🔥 _News and Updates_
+- *2024.12*: &nbsp;🎉 Four papers are accepted at **AAAI 2025**! See you in Philadelphia!
 - *2024.10*: &nbsp;🎉 Two papers are accepted at **EMNLP 2024 Main**!
 - *2024.10*: &nbsp;🎉 Two papers on **Fairness in Large Language Models** are accepted at **NeurIPS SoLaR <span style="color: red;">(One Spotlight)</span>**!
 - *2024.10*: &nbsp;🎉 Our paper, **"Mixture of Demonstrations for In-Context Learning,"** is accepted at **NeurIPS 2024**!
