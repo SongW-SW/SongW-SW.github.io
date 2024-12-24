@@ -77,6 +77,9 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ACL Findings**: *Knowledge Graph-Enhanced Large Language Models via Path Selection*  
   Haochen Liu, **Song Wang**, Yaochen Zhu, Yushun Dong, Jundong Li.
 
+- **EMNLP**: *Large Language Models for Data Annotation: A Survey*  
+  Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu.
+
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
 
 ## 📖 _Education_
