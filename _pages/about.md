@@ -74,7 +74,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ACL Findings**: *FastGAS: Fast Graph-based Annotation Selection for In-Context Learning*  
   Zihan Chen, **Song Wang**, Cong Shen, Jundong Li.
 
-- **ACL Findings**: *Knowledge Graph-Enhanced Large Language Models via Path Selection*
+- **ACL Findings**: *Knowledge Graph-Enhanced Large Language Models via Path Selection*  
   Haochen Liu, **Song Wang**, Yaochen Zhu, Yushun Dong, Jundong Li.
 
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
