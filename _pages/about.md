@@ -97,7 +97,7 @@ Beyond research, I enjoy:
 🏊‍🚴🏃 **Triathlon** (training).  
 ⚾ **Baseball** (playing).  
 🎮 **Esports**, especially competitive League of Legends (Top 0.5% in NA server).    
-🌟 **Exploration** Applications of AI for social good.
+🌟 **Exploration** Applications of AI for social good (e.g., personalized chatbot on social media).
 
 
 Feel free to contact me for collaborations, research discussions, or just to connect!   
