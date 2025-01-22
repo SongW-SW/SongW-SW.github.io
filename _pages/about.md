@@ -40,7 +40,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **Fairness and Interpretability in AI**: Developing fairness-aware GML frameworks and interpretable AI methods for socially impactful applications.
 
 ## 🔥 _News and Updates_
-- *2025.01*: &nbsp;🎉 Our paper, **Generative Risk Minimization for Out-of-Distribution Generalization on Graphs,** (first-author) is accepted at **TMLR**! 
+- *2025.01*: &nbsp;🎉 Our paper (first-author), **Generative Risk Minimization for Out-of-Distribution Generalization on Graphs,** is accepted at **TMLR**! 
 - *2024.12*: &nbsp;🎉 Four papers (one first-author oral, one oral) are accepted at **AAAI 2025**! See you in Philadelphia!
 - *2024.10*: &nbsp;🎉 Two papers are accepted at **EMNLP 2024 Main**! See you in Miami!
 - *2024.10*: &nbsp;🎉 Two papers on **Fairness in Large Language Models** are accepted at **NeurIPS SoLaR <span style="color: red;">(One Spotlight)</span>**!
