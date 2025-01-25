@@ -57,7 +57,13 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 ## 📜 _Publications_
 
+### **2025**
+
+- **ICLR** *Ceb: Compositional Evaluation Benchmark for Fairness in Large Language Models*
+**Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li.
+
 ### **2024**
+
 - **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks*  
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
 
