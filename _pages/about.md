@@ -59,7 +59,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 ### **2025**
 
-- **ICLR**: *Ceb: Compositional Evaluation Benchmark for Fairness in Large Language Models*  
+- **ICLR**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models*  
 **Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li.
 
 ### **2024**
