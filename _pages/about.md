@@ -68,10 +68,10 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs*  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
 
-### **2024**
-
 - **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks*  
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
+
+### **2024**
 
 - **NeurIPS**: *Mixture of Demonstrations for In-Context Learning*  
   **Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li.  
@@ -93,6 +93,50 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 - **EMNLP**: *Large Language Models for Data Annotation: A Survey*  
   Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu.
+
+### **2023**  
+
+- **TKDD**: *Learning Hierarchical Task Structures for Few-shot Graph Classification*  
+  **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li.  
+
+- **EMNLP**: *Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*  
+  **Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li.  
+
+- **ECAI**: *Fair Few-shot Learning with Auxiliary Sets*  
+  **Song Wang**, Jing Ma, Lu Cheng, Jundong Li.  
+
+- **SIGKDD**: *Federated Few-shot Learning*  
+  **Song Wang**, Xingbo Fu, Chen Chen, Jundong Li.  
+
+- **SIGKDD**: *Contrastive Meta-Learning for Few-shot Node Classification*  
+  **Song Wang\***, Zhen Tan\*, Huan Liu, Jundong Li.  
+
+- **TKDE**: *Fairness in Graph Mining: A Survey*  
+  Yushun Dong, Jing Ma, **Song Wang**, Chen Chen, Jundong Li.  
+
+- **AAAI**: *Interpreting Unfairness in Graph Neural Networks via Training Node Attribution*  
+  Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li.  
+
+- **WSDM**: *Few-shot Node Classification with Extremely Weak Supervision*  
+  **Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li.  
+
+### **2022**  
+
+- **LoG (Spotlight)**: *Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification*  
+  Zhen Tan\*, **Song Wang\***, Kaize Ding\*, Jundong Li, Huan Liu.  
+
+- **NeurIPS**: *Graph Few-shot Learning with Task-specific Structures*  
+  **Song Wang**, Chen Chen, Jundong Li.  
+
+- **SIGKDD**: *Task-Adaptive Few-shot Node Classification*  
+  **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li.  
+
+- **IJCAI**: *FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs*  
+  **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li.  
+
+- **SIGIR**: *Recognizing Medical Search Query Intent by Few-shot Learning*  
+  Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou.  
+
 
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
 
