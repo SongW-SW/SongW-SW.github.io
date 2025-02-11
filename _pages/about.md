@@ -64,7 +64,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ICLR**: *Reasoning of Large Language Models over Knowledge Graphs with Super-Relations*  
 **Song Wang**, Junhong Lin, Xiaojie Guo, Julian Shun, Jundong Li, Yada Zhu.  
 
-- **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models* [**[PDF]**](https://arxiv.org/pdf/2407.02408) [**[GitHub]**](https://github.com/SongW-SW/CEB)
+- **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models* [**[PDF]**](https://arxiv.org/pdf/2407.02408) [**[GitHub]**](https://github.com/SongW-SW/CEB)  
 **Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li.
 
 - **ICLR**: *Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective*    
