@@ -64,7 +64,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ICLR**: *Reasoning of Large Language Models over Knowledge Graphs with Super-Relations*  
 **Song Wang**, Junhong Lin, Xiaojie Guo, Julian Shun, Jundong Li, Yada Zhu.  
 
-- **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models*  
+- **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models* [**[PDF]**](https://arxiv.org/pdf/2407.02408) [**[GitHub]**](https://github.com/SongW-SW/CEB)
 **Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li.
 
 - **ICLR**: *Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective*    
@@ -73,7 +73,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs*  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
 
-- **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* <a href="[https://jundongli.github.io/](https://arxiv.org/pdf/2412.17404)" target="_blank">[PDF]</a>
+- **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
 
 ### **2024**
