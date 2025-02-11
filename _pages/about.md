@@ -73,7 +73,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs*  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
 
-- **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks*  
+- **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* <a href="[https://jundongli.github.io/](https://arxiv.org/pdf/2412.17404)" target="_blank">[PDF]</a>
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
 
 ### **2024**
