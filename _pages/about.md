@@ -59,12 +59,17 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 ### **2025**
 
+
+
 - **ICLR**: *Reasoning of Large Language Models over Knowledge Graphs with Super-Relations*  
 **Song Wang**, Junhong Lin, Xiaojie Guo, Julian Shun, Jundong Li, Yada Zhu.  
 
 - **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models*  
 **Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li.
 
+- **ICLR**: *Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective*    
+  Yushun Dong, Yinhan He, Patrick Soga, **Song Wang**, Jundong Li.  
+  
 - **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs*  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
 
