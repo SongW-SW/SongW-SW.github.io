@@ -55,7 +55,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - *2024.05*: &nbsp;🎉 Two papers are accepted at **ACL 2024 Findings**!
 - *2024.02*: &nbsp;🎉 Our paper, **"Interpreting Pretrained Language Models via Concept Bottlenecks"**, is accepted at **PAKDD 2024 with <span style="color: red;">Best Paper Award</span>**!
 
-## 📜 _Publications_
+## 📜 _Selected Publications_
 
 ### **2025**
 
