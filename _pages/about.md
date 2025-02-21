@@ -69,7 +69,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ICLR**: *Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective*    
   Yushun Dong, Yinhan He, Patrick Soga, **Song Wang**, Jundong Li.  
   
-- **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs*  [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)
+- **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
 
 - **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
