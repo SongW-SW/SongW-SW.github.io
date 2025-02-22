@@ -98,6 +98,18 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **EMNLP**: *Large Language Models for Data Annotation: A Survey*  
   Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu.
 
+- **IEEE BigData**: *KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models*  
+  **Zaiyi Zheng**, Yushun Dong, Song Wang, Haochen Liu, Qi Wang, Jundong Li.  
+
+- **WSDM**: *Demystify Epidemic Containment in Directed Networks: Theory and Algorithms*  
+  Yinhan He, Chen Chen, **Song Wang**, Guanghui Min, Jundong Li.  
+
+- **CIKM**: *Understanding and Modeling Job Marketplace with Pretrained Language Models*  
+  Yaochen Zhu, Liang Wu, Binchi Zhang, **Song Wang**, Qi Guo, Liangjie Hong, Luke Simon, Jundong Li.  
+
+- **PAKDD <span style="color: red;">Best Paper</span>**: *Interpreting Pretrained Language Models via Concept Bottlenecks*  
+  Zhen Tan, Lu Cheng, **Song Wang**, Yuan Bo, Jundong Li, Huan Liu.  
+
 ### **2023**  
 
 - **TKDD**: *Learning Hierarchical Task Structures for Few-shot Graph Classification*  
