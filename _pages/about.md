@@ -158,7 +158,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 Beyond research, I enjoy:  
 🏊‍🚴🏃 **Triathlon** (training).  
 ⚾ **Baseball** (playing).  
-🎮 **Esports**, especially competitive League of Legends (Top 0.5% in NA server).    
+<!-- 🎮 **Esports**, especially competitive League of Legends (Top 0.5% in NA server). -->     
 🌟 **Exploration** Applications of AI for social good (e.g., personalized chatbot on social media).
 
 
