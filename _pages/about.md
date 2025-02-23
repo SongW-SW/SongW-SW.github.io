@@ -86,7 +86,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ICDM**: *Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization* [**[PDF]**](https://arxiv.org/pdf/2501.04102)  
   **Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai.  
 
-- **NeurIPS SoLaR Spotlight**: *On Demonstration Selection for Improving Fairness in Language Models*  
+- **NeurIPS SoLaR Spotlight**: *On Demonstration Selection for Improving Fairness in Language Models*  [**[PDF]**](https://openreview.net/pdf?id=V9PCoMqqdO)  
   **Song Wang**, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li.  
 
 - **ACL Findings**: *FastGAS: Fast Graph-based Annotation Selection for In-Context Learning*  
@@ -95,7 +95,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ACL Findings**: *Knowledge Graph-Enhanced Large Language Models via Path Selection*  
   Haochen Liu, **Song Wang**, Yaochen Zhu, Yushun Dong, Jundong Li.
 
-- **EMNLP**: *Large Language Models for Data Annotation: A Survey*  
+- **EMNLP**: *Large Language Models for Data Annotation: A Survey*  [**[PDF]**](https://arxiv.org/pdf/2402.13446)  
   Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu.
 
 - **IEEE BigData**: *KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models*  
