@@ -107,7 +107,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **CIKM**: *Understanding and Modeling Job Marketplace with Pretrained Language Models*  
   Yaochen Zhu, Liang Wu, Binchi Zhang, **Song Wang**, Qi Guo, Liangjie Hong, Luke Simon, Jundong Li.  
 
-- **PAKDD <span style="color: red;">Best Paper</span>**: *Interpreting Pretrained Language Models via Concept Bottlenecks*  
+- **PAKDD <span style="color: red;">Best Paper</span>**: *Interpreting Pretrained Language Models via Concept Bottlenecks*  [**[PDF]**](https://link.springer.com/content/pdf/10.1007/978-981-97-2259-4_5.pdf)  
   Zhen Tan, Lu Cheng, **Song Wang**, Yuan Bo, Jundong Li, Huan Liu.  
 
 ### **2023**  
