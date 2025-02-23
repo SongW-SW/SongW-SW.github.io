@@ -83,7 +83,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **ACM Computing Surveys**: *Knowledge Editing for Large Language Models: A Survey* [**[PDF]**](https://dl.acm.org/doi/full/10.1145/3698590)  
   **Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li.  
 
-- **ICDM**: *Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization*  
+- **ICDM**: *Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization* [**[PDF]**](https://arxiv.org/pdf/2501.04102)
   **Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai.  
 
 - **NeurIPS SoLaR Spotlight**: *On Demonstration Selection for Improving Fairness in Language Models*  
