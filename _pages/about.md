@@ -77,10 +77,10 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 ### **2024**
 
-- **NeurIPS**: *Mixture of Demonstrations for In-Context Learning*  [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)  
+- **NeurIPS**: *Mixture of Demonstrations for In-Context Learning* [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)  
   **Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li.  
 
-- **ACM Computing Surveys**: *Knowledge Editing for Large Language Models: A Survey*  
+- **ACM Computing Surveys**: *Knowledge Editing for Large Language Models: A Survey* [**[PDF]**](https://dl.acm.org/doi/full/10.1145/3698590)  
   **Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li.  
 
 - **ICDM**: *Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization*  
