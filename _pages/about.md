@@ -115,39 +115,39 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **TKDD**: *Learning Hierarchical Task Structures for Few-shot Graph Classification*  [**[PDF]**](https://dl.acm.org/doi/pdf/10.1145/3635473)  
   **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li.  
 
-- **EMNLP**: *Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*  
+- **EMNLP**: *Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*  [**[PDF]**](https://arxiv.org/pdf/2311.01108)  
   **Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li.  
 
-- **ECAI**: *Fair Few-shot Learning with Auxiliary Sets*  
+- **ECAI**: *Fair Few-shot Learning with Auxiliary Sets*  [**[PDF]**](https://arxiv.org/pdf/2308.14338)  
   **Song Wang**, Jing Ma, Lu Cheng, Jundong Li.  
 
-- **SIGKDD**: *Federated Few-shot Learning*  
+- **SIGKDD**: *Federated Few-shot Learning*   [**[PDF]**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599347)  
   **Song Wang**, Xingbo Fu, Chen Chen, Jundong Li.  
 
-- **SIGKDD**: *Contrastive Meta-Learning for Few-shot Node Classification*  
+- **SIGKDD**: *Contrastive Meta-Learning for Few-shot Node Classification*  [**[PDF]**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599288)  
   **Song Wang\***, Zhen Tan\*, Huan Liu, Jundong Li.  
 
-- **TKDE**: *Fairness in Graph Mining: A Survey*  
+- **TKDE**: *Fairness in Graph Mining: A Survey*  [**[PDF]**](https://arxiv.org/pdf/2204.09888)  
   Yushun Dong, Jing Ma, **Song Wang**, Chen Chen, Jundong Li.  
 
 - **AAAI**: *Interpreting Unfairness in Graph Neural Networks via Training Node Attribution*  
   Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li.  
 
-- **WSDM**: *Few-shot Node Classification with Extremely Weak Supervision*  
+- **WSDM**: *Few-shot Node Classification with Extremely Weak Supervision*  [**[PDF]**](https://dl.acm.org/doi/pdf/10.1145/3539597.3570435)  
   **Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li.  
 
 ### **2022**  
 
-- **LoG (Spotlight)**: *Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification*  
+- **LoG (Spotlight)**: *Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification*  [**[PDF]**](https://proceedings.mlr.press/v198/tan22a/tan22a.pdf)  
   Zhen Tan\*, **Song Wang\***, Kaize Ding\*, Jundong Li, Huan Liu.  
 
-- **NeurIPS**: *Graph Few-shot Learning with Task-specific Structures*  
+- **NeurIPS**: *Graph Few-shot Learning with Task-specific Structures*  [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2022/file/fe47dd3fd8e7eb43187d42d65083e383-Paper-Conference.pdf)  
   **Song Wang**, Chen Chen, Jundong Li.  
 
-- **SIGKDD**: *Task-Adaptive Few-shot Node Classification*  
+- **SIGKDD**: *Task-Adaptive Few-shot Node Classification*  [**[PDF]**](https://dl.acm.org/doi/pdf/10.1145/3534678.3539265)  
   **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li.  
 
-- **IJCAI**: *FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs*  
+- **IJCAI**: *FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs*  [**[PDF]**](https://arxiv.org/pdf/2205.02435)  
   **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li.  
 
 - **SIGIR**: *Recognizing Medical Search Query Intent by Few-shot Learning*  
