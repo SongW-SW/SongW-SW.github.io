@@ -72,8 +72,20 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
 
-- **AAAI**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
-  **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
+- **AAAI <span style="color: red;">Oral</span>**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
+  **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.
+  
+- **AAAI <span style="color: red;">Oral</span>**: *Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach*  
+  Zhen Tan, Jie Peng, **Song Wang**, Lijie Hu, Tianlong Chen, Huan Liu.  
+
+- **AAAI**: *Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective*   
+  Yiming Xu, Zhen Peng, Bin Shi, Xu Hua, Bo Dong, **Song Wang**, Chen Chen.  
+
+- **AAAI**: *Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning*   
+  Xingbo Fu, Zihan Chen, Yinhan He, **Song Wang**, Binchi Zhang, Chen Chen, Jundong Li.  
+
+
+
 
 ### **2024**
 
