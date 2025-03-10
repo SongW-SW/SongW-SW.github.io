@@ -114,7 +114,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
   Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, **Song Wang**, Jundong Li, Tianlong Chen, Huan Liu.  
 
 - **IEEE BigData**: *KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models*  
-  **Zaiyi Zheng**, Yushun Dong, Song Wang, Haochen Liu, Qi Wang, Jundong Li.  
+  Zaiyi Zheng, Yushun Dong, **Song Wang**, Haochen Liu, Qi Wang, Jundong Li.  
 
 - **WSDM**: *Demystify Epidemic Containment in Directed Networks: Theory and Algorithms*  
   Yinhan He, Chen Chen, **Song Wang**, Guanghui Min, Jundong Li.  
