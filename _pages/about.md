@@ -85,8 +85,8 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **AAAI**: *Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning*   
   Xingbo Fu, Zihan Chen, Yinhan He, **Song Wang**, Binchi Zhang, Chen Chen, Jundong Li.
 
-- **TKDE (under revision)**: *Safety in Graph Machine Learning: Threats and Safeguards*   
-**Song Wang**, Yushun Dong, Binchi Zhang, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li. [**[PDF]**](https://arxiv.org/pdf/2405.11034)
+- **TKDE (under revision)**: *Safety in Graph Machine Learning: Threats and Safeguards*  [**[PDF]**](https://arxiv.org/pdf/2405.11034)  
+**Song Wang**, Yushun Dong, Binchi Zhang, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li.  
 
 
 
