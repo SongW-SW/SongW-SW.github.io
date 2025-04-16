@@ -173,8 +173,19 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 ## 📖 _Education_
 
-- **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020-Present)  
-- **Tsinghua University**: B.E. in Electronic Engineering (2016-2020)  
+- **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020 – Present)  
+- **Tsinghua University**: B.E. in Electronic Engineering (2016 – 2020)
+
+## 💼 _Professional Experience_
+
+- **Meta**: Research Scientist Intern (Sep 2024 – Dec 2024)  
+  _Bellevue, Washington · On-site_
+
+- **Massachusetts Institute of Technology**: Visiting Ph.D. Student (Jun 2024 – Aug 2024)  
+  _Cambridge, Massachusetts · On-site_
+
+- **Visa**: Research Intern (May 2023 – Aug 2023)  
+  _Atlanta, Georgia · On-site_
 
 ## 💁 _Service and Volunteering_
 
