@@ -60,6 +60,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 ### **2025**
 
 
+
 - **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models* [**[PDF]**](https://arxiv.org/pdf/2407.02408) [**[GitHub]**](https://github.com/SongW-SW/CEB)  
 **Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li.  
   
@@ -82,7 +83,13 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
   Yiming Xu, Zhen Peng, Bin Shi, Xu Hua, Bo Dong, **Song Wang**, Chen Chen.  
 
 - **AAAI**: *Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning*   
-  Xingbo Fu, Zihan Chen, Yinhan He, **Song Wang**, Binchi Zhang, Chen Chen, Jundong Li.  
+  Xingbo Fu, Zihan Chen, Yinhan He, **Song Wang**, Binchi Zhang, Chen Chen, Jundong Li.
+
+
+
+- **TKDE (under revision)**: *Safety in Graph Machine Learning: Threats and Safeguards*   
+**Song Wang**, Yushun Dong, Binchi Zhang, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li. [**[PDF]**] (https://arxiv.org/pdf/2405.11034)
+
 
 
 
