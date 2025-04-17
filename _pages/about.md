@@ -55,6 +55,28 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - *2024.05*: &nbsp;🎉 Two papers are accepted at **ACL 2024 Findings**!
 - *2024.02*: &nbsp;🎉 Our paper, **"Interpreting Pretrained Language Models via Concept Bottlenecks"**, is accepted at **PAKDD 2024 with <span style="color: red;">Best Paper Award</span>**!
 
+
+
+## 📖 _Education_
+
+- **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020 – Present)  
+- **Tsinghua University**: B.E. in Electronic Engineering (2016 – 2020)
+
+## 💼 _Professional Experience_
+
+- **Meta**: Research Scientist Intern (Sep 2024 – Dec 2024)  
+  _Bellevue, Washington · On-site_
+
+- **Massachusetts Institute of Technology**: Visiting Ph.D. Student (Jun 2024 – Aug 2024)  
+  _Cambridge, Massachusetts · On-site_
+
+- **Visa**: Research Intern (May 2023 – Aug 2023)  
+  _Atlanta, Georgia · On-site_
+
+
+
+
+
 ## 📜 _Selected Publications_
 
 ### **2025**
@@ -175,22 +197,6 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
-
-## 📖 _Education_
-
-- **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020 – Present)  
-- **Tsinghua University**: B.E. in Electronic Engineering (2016 – 2020)
-
-## 💼 _Professional Experience_
-
-- **Meta**: Research Scientist Intern (Sep 2024 – Dec 2024)  
-  _Bellevue, Washington · On-site_
-
-- **Massachusetts Institute of Technology**: Visiting Ph.D. Student (Jun 2024 – Aug 2024)  
-  _Cambridge, Massachusetts · On-site_
-
-- **Visa**: Research Intern (May 2023 – Aug 2023)  
-  _Atlanta, Georgia · On-site_
 
 ## 💁 _Service and Volunteering_
 
