@@ -82,7 +82,8 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 ### **2025**
 
-
+- **ICML**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning*  
+Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.  
 
 - **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models* [**[PDF]**](https://arxiv.org/pdf/2407.02408) [**[GitHub]**](https://github.com/SongW-SW/CEB)  
 **Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li.  
