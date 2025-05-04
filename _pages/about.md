@@ -36,7 +36,7 @@ in 2020, where my diploma thesis was advised by
 My research aims to tackle real-world challenges in **Generalizable Machine Learning (GML)** and **Trustworthy AI**, focusing on the following:
 
 - **Generalizable Algorithms under Distribution Shift**: I develop theoretically grounded machine learning algorithms that enable generalization across diverse data distributions. My work spans few-shot learning, in-context learning, and transfer learning, focusing on invariance regularization and distribution-aware optimization to support generalization with theoretical guarantees.  
-- **Reliable Generalization**: I study how generalization theory can be extended to interdisciplinary domains such as neuroscience, bioinformatics, and particle physics. I develop methods that bridge theoretical rigor and scientific impact with guarantees in the presence of distribution shift.  
+- **Reliable Generalization**: My research investigates the theoretical and empirical foundations of model robustness in the presence of noisy data, resource constraints, and spurious correlations. I design algorithms that enhance stability, fairness, and safety in generalization, especially for real-world deployment scenarios.  
 - **Generalization for Science**: I study how generalization theory can be extended to interdisciplinary domains such as neuroscience, bioinformatics, and particle physics. I develop methods that bridge theoretical rigor and scientific impact with guarantees in the presence of distribution shift.  
 
 
