@@ -35,9 +35,10 @@ in 2020, where my diploma thesis was advised by
 
 My research aims to tackle real-world challenges in **Generalizable Machine Learning (GML)** and **Trustworthy AI**, focusing on the following:
 
-- **Generalization with Minimal Labeled Data**: Designing frameworks for few-shot learning, meta-learning, and task-adaptive model generalization.
-- **Robust Learning with Noisy and Unlabeled Data**: Leveraging weak supervision to enhance model robustness across tasks.
-- **Fairness and Interpretability in AI**: Developing fairness-aware GML frameworks and interpretable AI methods for socially impactful applications.
+- **Generalizable Algorithms under Distribution Shift**: I develop theoretically grounded machine learning algorithms that enable generalization across diverse data distributions. My work spans few-shot learning, in-context learning, and transfer learning, focusing on invariance regularization and distribution-aware optimization to support generalization with theoretical guarantees.  
+- **Reliable Generalization**: I study how generalization theory can be extended to interdisciplinary domains such as neuroscience, bioinformatics, and particle physics. I develop methods that bridge theoretical rigor and scientific impact with guarantees in the presence of distribution shift.  
+- **Generalization for Science**: I study how generalization theory can be extended to interdisciplinary domains such as neuroscience, bioinformatics, and particle physics. I develop methods that bridge theoretical rigor and scientific impact with guarantees in the presence of distribution shift.  
+
 
 ## 🔥 _News and Updates_
 - *2025.05*: &nbsp;🎉 One co-first paper **MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning** is accepted at **ICML 2025**! See you in Vancouver! Yes, we named it MAPLE due to the conference location.
