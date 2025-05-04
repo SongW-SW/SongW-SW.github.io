@@ -91,7 +91,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **ICLR**: *Reasoning of Large Language Models over Knowledge Graphs with Super-Relations*  [**[PDF]**](https://openreview.net/pdf?id=rTCJ29pkuA)  
 **Song Wang**, Junhong Lin, Xiaojie Guo, Julian Shun, Jundong Li, Yada Zhu.  
 
-- **ICLR**: *Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective*    
+- **ICLR**: *Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective* [**[PDF]**](https://arxiv.org/pdf/2412.07188)  
   Yushun Dong, Yinhan He, Patrick Soga, **Song Wang**, Jundong Li.  
   
 - **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
