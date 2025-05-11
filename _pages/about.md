@@ -94,7 +94,10 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 
 - **ICLR**: *Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective* [**[PDF]**](https://arxiv.org/pdf/2412.07188)  
   Yushun Dong, Yinhan He, Patrick Soga, **Song Wang**, Jundong Li.  
-  
+
+- **Arxiv**: *A Survey of Deep Graph Learning under Distribution Shifts: From Graph Out-of-Distribution Generalization to Adaptation*  [**[PDF]**](https://arxiv.org/pdf/2412.07188)  
+  Kexin Zhang, Shuhan Liu, **Song Wang**, Weili Shi, Chen Chen, Pan Li, Sheng Li, Jundong Li, Kaize Ding.
+
 - **TMLR**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
 
