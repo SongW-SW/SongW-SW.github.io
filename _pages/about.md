@@ -83,6 +83,9 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 ### **2025**
 
+- **KDD Dataset Track**: *Fairness-Aware Graph Learning: A Benchmark*  
+Yushun Dong, **Song Wang**, Zhenyu Lei, Zaiyi Zheng, Jing Ma, Chen Chen, Jundong Li.  
+
 - **ICML**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning*  
 Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.  
 
