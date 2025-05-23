@@ -41,6 +41,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 
 
 ## 🔥 _News and Updates_
+- *2025.05*: &nbsp;🎉 One paper **Fairness-Aware Graph Learning: A Benchmark** is accepted at **KDD 2025 Dataset Track**! See you in Toronto (definitely)!
 - *2025.05*: &nbsp;🎉 One co-first paper **MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning** is accepted at **ICML 2025**! See you in Vancouver! Yes, we named it MAPLE due to the conference location.
 - *2025.01*: &nbsp;🎉 Three papers (one **<span style="color: red;">Spotlight</span>** first-author, one first-author) are accepted at **ICLR 2025**! See you (maybe) in Singapore! 
 - *2025.01*: &nbsp;🎉 Our paper (first-author), **Generative Risk Minimization for Out-of-Distribution Generalization on Graphs,** is accepted at **TMLR**! 
