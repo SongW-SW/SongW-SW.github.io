@@ -114,7 +114,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **AAAI**: *Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective*  [**[PDF]**](https://ojs.aaai.org/index.php/AAAI/article/view/33415)  
   Yiming Xu, Zhen Peng, Bin Shi, Xu Hua, Bo Dong, **Song Wang**, Chen Chen.  
 
-- **AAAI**: *Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning*   
+- **AAAI**: *Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning*  [**[PDF]**](https://ojs.aaai.org/index.php/AAAI/article/view/33830)  
   Xingbo Fu, Zihan Chen, Yinhan He, **Song Wang**, Binchi Zhang, Chen Chen, Jundong Li.
 
 - **TKDE (under revision)**: *Safety in Graph Machine Learning: Threats and Safeguards*  [**[PDF]**](https://arxiv.org/pdf/2405.11034)  
