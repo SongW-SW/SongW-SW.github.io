@@ -202,7 +202,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **IJCAI**: *FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs*  [**[PDF]**](https://arxiv.org/pdf/2205.02435)  
   **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li.  
 
-- **SIGIR**: *Recognizing Medical Search Query Intent by Few-shot Learning*  
+- **SIGIR**: *Recognizing Medical Search Query Intent by Few-shot Learning* [**[PDF]**](https://web.archive.org/web/20220713091938id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531789)  
   Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou.  
 
 
