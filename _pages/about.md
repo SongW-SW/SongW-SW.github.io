@@ -138,7 +138,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **NeurIPS SoLaR Spotlight**: *On Demonstration Selection for Improving Fairness in Language Models*  [**[PDF]**](https://openreview.net/pdf?id=V9PCoMqqdO)  
   **Song Wang**, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li.  
 
-- **ACL Findings**: *FastGAS: Fast Graph-based Annotation Selection for In-Context Learning*  
+- **ACL Findings**: *FastGAS: Fast Graph-based Annotation Selection for In-Context Learning* [**[PDF]**](https://arxiv.org/pdf/2406.03730)
   Zihan Chen, **Song Wang**, Cong Shen, Jundong Li.
 
 - **ACL Findings**: *Knowledge Graph-Enhanced Large Language Models via Path Selection*  
