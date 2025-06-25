@@ -150,7 +150,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **EMNLP Main**: *Glue Pizza and Eat Rocks - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models*  [**[PDF]**](https://arxiv.org/pdf/2406.19417)  
   Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, **Song Wang**, Jundong Li, Tianlong Chen, Huan Liu.  
 
-- **IEEE BigData**: *KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models*  
+- **IEEE BigData**: *KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models*  [**[PDF]**](https://arxiv.org/pdf/2501.02711?)  
   Zaiyi Zheng, Yushun Dong, **Song Wang**, Haochen Liu, Qi Wang, Jundong Li.  
 
 - **WSDM**: *Demystify Epidemic Containment in Directed Networks: Theory and Algorithms*  
