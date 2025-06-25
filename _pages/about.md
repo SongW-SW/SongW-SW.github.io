@@ -108,7 +108,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **AAAI <span style="color: red;">Oral</span>**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.
   
-- **AAAI <span style="color: red;">Oral</span>**: *Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach*  
+- **AAAI <span style="color: red;">Oral</span>**: *Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach* [**[PDF]**](https://ojs.aaai.org/index.php/AAAI/article/view/34710)  
   Zhen Tan, Jie Peng, **Song Wang**, Lijie Hu, Tianlong Chen, Huan Liu.  
 
 - **AAAI**: *Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective*   
