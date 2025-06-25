@@ -87,7 +87,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **KDD Dataset Track**: *Fairness-Aware Graph Learning: A Benchmark*  
 Yushun Dong, **Song Wang**, Zhenyu Lei, Zaiyi Zheng, Jing Ma, Chen Chen, Jundong Li.  
 
-- **ICML**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning*  
+- **ICML**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning* [**[PDF]**](https://arxiv.org/pdf/2505.16225)   
 Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.  
 
 - **ICLR <span style="color: red;">Spotlight</span>**: *CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models* [**[PDF]**](https://arxiv.org/pdf/2407.02408) [**[GitHub]**](https://github.com/SongW-SW/CEB)  
