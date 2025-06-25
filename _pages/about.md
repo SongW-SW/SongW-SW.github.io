@@ -153,7 +153,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **IEEE BigData**: *KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models*  [**[PDF]**](https://arxiv.org/pdf/2501.02711?)  
   Zaiyi Zheng, Yushun Dong, **Song Wang**, Haochen Liu, Qi Wang, Jundong Li.  
 
-- **WSDM**: *Demystify Epidemic Containment in Directed Networks: Theory and Algorithms*  
+- **WSDM**: *Demystify Epidemic Containment in Directed Networks: Theory and Algorithms*  [**[PDF]**](https://dl.acm.org/doi/pdf/10.1145/3701551.3703575)  
   Yinhan He, Chen Chen, **Song Wang**, Guanghui Min, Jundong Li.  
 
 - **CIKM**: *Understanding and Modeling Job Marketplace with Pretrained Language Models*  
