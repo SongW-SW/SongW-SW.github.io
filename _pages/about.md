@@ -147,7 +147,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **EMNLP Main**: *Large Language Models for Data Annotation: A Survey*  [**[PDF]**](https://arxiv.org/pdf/2402.13446)  
   Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu.
 
-- **EMNLP Main**: *Glue Pizza and Eat Rocks - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models*   
+- **EMNLP Main**: *Glue Pizza and Eat Rocks - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models*  [**[PDF]**](https://arxiv.org/pdf/2406.19417)  
   Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, **Song Wang**, Jundong Li, Tianlong Chen, Huan Liu.  
 
 - **IEEE BigData**: *KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models*  
