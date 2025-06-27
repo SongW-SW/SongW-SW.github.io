@@ -33,7 +33,7 @@ in 2020, where my diploma thesis was advised by
 
 ## 🔍 _Research Interests_
 
-My research aims to tackle real-world challenges in **Generalizable Machine Learning (GML)** and **Trustworthy AI**, focusing on the following:
+My research aims to tackle real-world challenges in **Adaptive, Generalizable, and Trustworthy AI**, focusing on the following:
 
 - **Generalizable Algorithms under Distribution Shift**: I develop theoretically grounded machine learning algorithms that enable generalization across diverse data distributions， focusing on invariance regularization and distribution-aware optimization to support generalization with theoretical guarantees.
   - **TMLR 2025**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
