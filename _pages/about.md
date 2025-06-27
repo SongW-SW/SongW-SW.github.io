@@ -44,7 +44,7 @@ My research aims to tackle real-world challenges in **Generalizable Machine Lear
 - **Generalization with Data-Efficiency**: My work spans few-shot learning, in-context learning, and transfer learning, to minimize the requirement of supervision for adaptation.
   - **ICML 2025**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning* [**[PDF]**](https://arxiv.org/pdf/2505.16225)   
 Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
-  - **ICLR**: *Reasoning of Large Language Models over Knowledge Graphs with Super-Relations*  [**[PDF]**](https://openreview.net/pdf?id=rTCJ29pkuA)  
+  - **ICLR 2025**: *Reasoning of Large Language Models over Knowledge Graphs with Super-Relations*  [**[PDF]**](https://openreview.net/pdf?id=rTCJ29pkuA)  
 **Song Wang**, Junhong Lin, Xiaojie Guo, Julian Shun, Jundong Li, Yada Zhu.  
   - **NeurIPS 2024**: *Mixture of Demonstrations for In-Context Learning* [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)  
   **Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li.  
