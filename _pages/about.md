@@ -35,7 +35,7 @@ in 2020, where my diploma thesis was advised by
 
 My research aims to tackle real-world challenges in **Adaptive, Generalizable, and Trustworthy AI**, focusing on these topics:
 
-- **Adaptation/Generalization to New Tasks/Distributions**: I develop theoretically grounded machine learning algorithms that enable generalization across diverse data distributions， focusing on invariance regularization and distribution-aware optimization to support generalization with theoretical guarantees.
+- **Adaptation/Generalization to New Tasks/Distributions**: I develop theoretically grounded machine learning algorithms that enable generalization across diverse tasks and data distributions focusing on invariance regularization and distribution-aware optimization to support generalization with theoretical guarantees.
   - **TMLR 2025**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
   - **ICDM 2024**: *Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization* [**[PDF]**](https://arxiv.org/pdf/2501.04102)  
