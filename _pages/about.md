@@ -23,7 +23,7 @@ in 2020, where my diploma thesis was advised by
 <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
 
-📝 My research focuses on **Adaptive AI** and its applications in **Biomedical & Health Informatics**, while ensuring interpretability, efficiency, and robustness of developed algorithms and systems.
+📝 My research focuses on **Adaptive AI** and its applications in scientific discovery while ensuring interpretability, efficiency, and robustness of developed algorithms and systems.
 
 
 
