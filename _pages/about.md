@@ -63,9 +63,10 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
   - **Arxiv 2025**: *Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis*  [**[PDF]**](https://arxiv.org/pdf/2505.03467)  
 Shuang Zhou, Jiashuo Wang, Zidu Xu, **Song Wang**, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B. Melton, Rui Zhang.
 
-
+Lock-LLM: Prevent Unauthorized Knowledge Use from LLMs
 
 ## 🔥 _News and Updates_
+- *2025.07*: &nbsp;🎉 We are hosting [**The 1st Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from LLMs**](https://lock-llm.github.io/) at **NeurIPS 2025**! See you in San Diego!
 - *2025.07*: &nbsp;🎉 One paper **Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting** is accepted at **COLM 2025**! See you in Montreal!
 - *2025.05*: &nbsp;🎉 One paper **Fairness-Aware Graph Learning: A Benchmark** is accepted at **KDD 2025 Dataset Track**! See you in Toronto (definitely)!
 - *2025.05*: &nbsp;🎉 One co-first paper **MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning** is accepted at **ICML 2025**! See you in Vancouver! Yes, we named it MAPLE to match the conference location.
