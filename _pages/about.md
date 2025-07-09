@@ -63,7 +63,6 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
   - **Arxiv 2025**: *Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis*  [**[PDF]**](https://arxiv.org/pdf/2505.03467)  
 Shuang Zhou, Jiashuo Wang, Zidu Xu, **Song Wang**, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B. Melton, Rui Zhang.
 
-Lock-LLM: Prevent Unauthorized Knowledge Use from LLMs
 
 ## 🔥 _News and Updates_
 - *2025.07*: &nbsp;🎉 We are hosting [**The 1st Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from LLMs**](https://lock-llm.github.io/) at **NeurIPS 2025**! See you in San Diego!
