@@ -58,7 +58,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **Generalization for Biomedical & Health Informatics**: I study how generalization theory can be extended to interdisciplinary domains such as biomedical informatics, healthcare, and particle physics. I develop methods that bridge theoretical rigor and scientific impact with guarantees in the presence of distribution shift.
   - **AAAI 2025 <span style="color: red;">Oral</span>**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.
-  - **BioArxiv 2025**: *A Natural Language Processing-Based Approach for Early Detection of Heart Failure Onset using Electronic Health Records* [**[PDF]**](https://www.medrxiv.org/content/medrxiv/early/2025/04/06/2025.04.04.25325211.full.pdf)  
+  - **Knowledge-Based Systems 2025**: *A Natural Language Processing-Based Approach for Early Detection of Heart Failure Onset using Electronic Health Records* [**[PDF]**](https://www.medrxiv.org/content/medrxiv/early/2025/04/06/2025.04.04.25325211.full.pdf)  
  Yuxi Liu, Zhen Tan, Zhenhao Zhang,  **Song Wang**, Jingchuan Guo, Huan Liu, Tianlong Chen, Jiang Bian.
   - **Arxiv 2025**: *Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis*  [**[PDF]**](https://arxiv.org/pdf/2505.03467)  
 Shuang Zhou, Jiashuo Wang, Zidu Xu, **Song Wang**, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B. Melton, Rui Zhang.
