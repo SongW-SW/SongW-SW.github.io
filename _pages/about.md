@@ -9,8 +9,8 @@ redirect_from:
 
 ## 🎓 _About Me_
 
-🏫 I am currently a fifth-year Ph.D. student in the 
-<a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Department of Electrical and Computer Engineering</a> 
+🏫 I am currently a fifth-year Ph.D. student in 
+<a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Electrical and Computer Engineering</a> 
 at the 
 <a href="https://www.virginia.edu/" target="_blank">University of Virginia</a>, 
 where I am advised by 
