@@ -234,7 +234,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
 
 ## 💁 _Service and Volunteering_
-
+- CIKM 2025 Resource/Demo Track Senior PC Member.  
 - Conference Reviewer: NeurIPS, ICML, ACL, SIGKDD, NAACL, EMNLP.  
 - Mentorship: Directly supervised 6 undergraduate and graduate students, many of whom have published at top venues like **NAACL** and **NeurIPS**.  
 
