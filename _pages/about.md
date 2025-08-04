@@ -22,6 +22,11 @@ from
 in 2020, where my diploma thesis was advised by 
 <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
+I will join the
+<a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">AI Institute</a>
+at the 
+<a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>
+as an Assistant Professor. Looking for prospective PhD students!
 
 📝 My research focuses on **Adaptive AI** and its applications in scientific discovery while ensuring interpretability, efficiency, and robustness of developed algorithms and systems.
 
