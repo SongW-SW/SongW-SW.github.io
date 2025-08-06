@@ -26,7 +26,7 @@ I will join the
 <a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">AI Institute</a>
 at the 
 <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>
-as an Assistant Professor. Looking for prospective PhD students!
+as a Tenure-Track Assistant Professor. Looking for prospective PhD students!
 
 📝 My research focuses on **Adaptive AI** and its applications in scientific discovery while ensuring interpretability, efficiency, and robustness of developed algorithms and systems.
 
