@@ -24,6 +24,8 @@ in 2020, where my diploma thesis was advised by
 
 I will join the
 <a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">AI Institute</a>
+and the
+<a href="https://www.cs.ucf.edu/" target="_blank">CS Department</a>
 at the 
 <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>
 as a Tenure-Track Assistant Professor. Looking for prospective PhD students!
