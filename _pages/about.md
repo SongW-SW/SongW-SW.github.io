@@ -119,6 +119,27 @@ Shuang Zhou, Jiashuo Wang, Zidu Xu, **Song Wang**, David Brauer, Lindsay Welton,
 
 ### **2025**
 
+
+Here are the six new entries in the same style as your homepage format:
+- **EMNLP Main**: *AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction*  
+  **Song Wang**, Zhen Tan, Zihan Chen, Shuang Zhou, Tianlong Chen, Jundong Li.
+  
+- **EMNLP Main**: *Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation*  
+  **Song Wang\***, Zihan Chen\*, Peng Wang, Zhepei Wei, Zhen Tan, Yu Meng, Cong Shen, Jundong Li.
+
+- **EMNLP Main**: *Learning from Diverse Reasoning Paths with Routing and Collaboration*  
+  Zhenyu Lei, Zhen Tan, **Song Wang**, Yaochen Zhu, Zihan Chen, Yushun Dong, Jundong Li.
+
+- **EMNLP Findings**: *From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning*  
+  Zihan Chen, **Song Wang**, Xingbo Fu, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li.
+
+- **EMNLP Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference*  
+  Dongwei Wang, Zijie Liu, **Song Wang**, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
+
+- **EMNLP Findings**: *CoRAG: Enhancing Hybrid Retrieval-Augmented Generation through a Cooperative Retriever Architecture*  
+  Zaiyi Zheng, **Song Wang**, Zihan Chen, Yaochen Zhu, Yinhan He, Liangjie Hong, Qi Guo, Jundong Li.
+
+
 - **KDD Dataset Track**: *Fairness-Aware Graph Learning: A Benchmark*  
 Yushun Dong, **Song Wang**, Zhenyu Lei, Zaiyi Zheng, Jing Ma, Chen Chen, Jundong Li.  
 
