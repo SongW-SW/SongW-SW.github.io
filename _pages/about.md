@@ -119,8 +119,6 @@ Shuang Zhou, Jiashuo Wang, Zidu Xu, **Song Wang**, David Brauer, Lindsay Welton,
 
 ### **2025**
 
-
-Here are the six new entries in the same style as your homepage format:
 - **EMNLP Main**: *AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction*  
   **Song Wang**, Zhen Tan, Zihan Chen, Shuang Zhou, Tianlong Chen, Jundong Li.
   
