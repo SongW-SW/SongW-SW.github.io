@@ -15,7 +15,7 @@ at the <a href="https://www.ucf.edu/" target="_blank">University of Central Flor
 
 I received my Ph.D. in <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Electrical and Computer Engineering</a>
 from the <a href="https://www.virginia.edu/" target="_blank">University of Virginia</a>,
-where I was advised by <a href="https://jundongli.github.io/" target="_blank">Prof. Jundong Li</a>.
+where I was fortunately advised by <a href="https://jundongli.github.io/" target="_blank">Prof. Jundong Li</a>.
 Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Electronic Engineering</a>
 from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>,
 where I completed my thesis under the supervision of <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
