@@ -7,31 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-## 🎓 _About Me_
+## 🎓 *About Me*
 
-🏫 I am currently a fifth-year Ph.D. student in 
-<a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Electrical and Computer Engineering</a> 
-at the 
-<a href="https://www.virginia.edu/" target="_blank">University of Virginia</a>, 
-where I am advised by 
-<a href="https://jundongli.github.io/" target="_blank">Prof. Jundong Li</a>. 
-Before joining UVA, I earned my B.E. in 
-<a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Electronic Engineering</a> 
-from 
-<a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a> 
-in 2020, where my diploma thesis was advised by 
-<a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
+🏫 I am an **Assistant Professor** in the <a href="https://www.cs.ucf.edu/" target="_blank">Department of Computer Science</a>
+and the <a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">AI Institute</a>
+at the <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>.
 
-I will join the
-<a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">AI Institute</a>
-and the
-<a href="https://www.cs.ucf.edu/" target="_blank">CS Department</a>
-at the 
-<a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>
-as a Tenure-Track Assistant Professor. Looking for prospective PhD students!
+I received my Ph.D. in <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Electrical and Computer Engineering</a>
+from the <a href="https://www.virginia.edu/" target="_blank">University of Virginia</a>,
+where I was advised by <a href="https://jundongli.github.io/" target="_blank">Prof. Jundong Li</a>.
+Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Electronic Engineering</a>
+from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>,
+where I completed my thesis under the supervision of <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
-📝 My research focuses on **Adaptive AI** and its applications in scientific discovery while ensuring interpretability, efficiency, and robustness of developed algorithms and systems.
-
+📝 My research focuses on **Trustworthy AI** and **Computational Biology**.
 
 
 🤝 **Looking for collaborations to work on impactful projects!**
@@ -42,33 +31,24 @@ as a Tenure-Track Assistant Professor. Looking for prospective PhD students!
 
 My research aims to tackle real-world challenges in **Adaptive, Generalizable, and Trustworthy AI**, focusing on these topics:
 
-- **Adaptation/Generalization to New Tasks/Distributions**: I develop theoretically grounded machine learning algorithms that enable generalization across diverse tasks and data distributions, focusing on invariance regularization and distribution-aware optimization to support generalization with theoretical guarantees.
-  - **TMLR 2025**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
-**Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
-  - **ICDM 2024**: *Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization* [**[PDF]**](https://arxiv.org/pdf/2501.04102)  
-  **Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai.  
   
-- **Generalization with Data-Efficiency**: My work spans few-shot learning, in-context learning, and transfer learning, to minimize the requirement of supervision for adaptation.
+- **Data-Efficiency**: My work spans few-shot learning, in-context learning, and transfer learning, to minimize the requirement of supervision for adaptation.
   - **ICML 2025**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning* [**[PDF]**](https://arxiv.org/pdf/2505.16225)   
 Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
-  - **ICLR 2025**: *Reasoning of Large Language Models over Knowledge Graphs with Super-Relations*  [**[PDF]**](https://openreview.net/pdf?id=rTCJ29pkuA)  
-**Song Wang**, Junhong Lin, Xiaojie Guo, Julian Shun, Jundong Li, Yada Zhu.  
   - **NeurIPS 2024**: *Mixture of Demonstrations for In-Context Learning* [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)  
   **Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li.  
   
-- **Reliable Generalization**: My research investigates the theoretical and empirical foundations of model robustness in the presence of noisy data, resource constraints, and spurious correlations. I design algorithms that enhance stability, fairness, and safety in generalization, especially for real-world deployment scenarios.
-  - **NeurIPS SoLaR 2025 Spotlight**: *On Demonstration Selection for Improving Fairness in Language Models*  [**[PDF]**](https://openreview.net/pdf?id=V9PCoMqqdO)  
-  **Song Wang**, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li.
+- **Robustness**: My research investigates the theoretical and empirical foundations of model robustness in the presence of noisy data and distribution shifts. I design algorithms that enhance stability and safety for real-world deployment scenarios.
+  - **TMLR 2025**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
+**Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
   - **EMNLP 2023**: *Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*  [**[PDF]**](https://arxiv.org/pdf/2311.01108)  
   **Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li. 
     
-- **Generalization for Biomedical & Health Informatics**: I study how generalization theory can be extended to interdisciplinary domains such as biomedical informatics, healthcare, and particle physics. I develop methods that bridge theoretical rigor and scientific impact with guarantees in the presence of distribution shift.
+- **Biomedical & Health Informatics**: I study how my research can be extended to interdisciplinary domains such as biomedical informatics and healthcare.
   - **AAAI 2025 <span style="color: red;">Oral</span>**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.
   - **Knowledge-Based Systems 2025**: *A Natural Language Processing-Based Approach for Early Detection of Heart Failure Onset using Electronic Health Records* [**[PDF]**](https://www.medrxiv.org/content/medrxiv/early/2025/04/06/2025.04.04.25325211.full.pdf)  
  Yuxi Liu, Zhen Tan, Zhenhao Zhang,  **Song Wang**, Jingchuan Guo, Huan Liu, Tianlong Chen, Jiang Bian.
-  - **Arxiv 2025**: *Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis*  [**[PDF]**](https://arxiv.org/pdf/2505.03467)  
-Shuang Zhou, Jiashuo Wang, Zidu Xu, **Song Wang**, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B. Melton, Rui Zhang.
 
 
 ## 🔥 _News and Updates_
