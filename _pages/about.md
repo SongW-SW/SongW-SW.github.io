@@ -81,15 +81,17 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **Tsinghua University**: B.E. in Electronic Engineering (2016 – 2020)
 
 ## 💼 _Professional Experience_
+- **University of Central Florida**: Assistant Professor (Sep 2025 – Current)  
+  _Orlando, Florida_
 
 - **Meta**: Research Scientist Intern (Sep 2024 – Dec 2024)  
-  _Bellevue, Washington · On-site_
+  _Bellevue, Washington_
 
 - **Massachusetts Institute of Technology**: Visiting Ph.D. Student (Jun 2024 – Aug 2024)  
-  _Cambridge, Massachusetts · On-site_
+  _Cambridge, Massachusetts_
 
 - **Visa**: Research Intern (May 2023 – Aug 2023)  
-  _Atlanta, Georgia · On-site_
+  _Atlanta, Georgia_
 
 
 
