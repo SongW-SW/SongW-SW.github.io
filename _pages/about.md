@@ -20,6 +20,8 @@ Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" ta
 from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>,
 where I completed my thesis under the supervision of <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
+📢 I am actively recruiting motivated Ph.D. students interested in machine learning, trustworthy AI, and interdisciplinary applications in bioinformatics. If you are interested, please feel free to reach out!
+
 🤝 **Looking for collaborations to work on impactful projects!**
 
 <!-- 💼 **<span style="color: red;"> I am actively seeking faculty positions! I would greatly appreciate it if you share any opportunities. Thank you!</span>**  --> 
