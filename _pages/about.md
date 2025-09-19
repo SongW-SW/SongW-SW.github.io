@@ -76,7 +76,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 
 ## 📖 _Education_
 
-- **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020 – Present)  
+- **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020 – 2025)  
 - **Tsinghua University**: B.E. in Electronic Engineering (2016 – 2020)
 
 ## 💼 _Professional Experience_
