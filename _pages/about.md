@@ -38,7 +38,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
   - **NeurIPS 2024**: *Mixture of Demonstrations for In-Context Learning* [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)  
   **Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li.  
   
-- **Robustness**: My research investigates the theoretical and empirical foundations of model robustness in the presence of noisy data and distribution shifts. I design algorithms that enhance stability and safety for real-world deployment scenarios.
+- **Robustness**: My research investigates the theoretical and empirical foundations of model robustness in the presence of noisy data and distribution shifts for real-world deployment scenarios.
   - **TMLR 2025**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
 **Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
   - **EMNLP 2023**: *Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*  [**[PDF]**](https://arxiv.org/pdf/2311.01108)  
