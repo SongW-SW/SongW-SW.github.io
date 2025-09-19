@@ -10,7 +10,7 @@ redirect_from:
 ## 🎓 *About Me*
 
 🏫 I am an **Assistant Professor** in the <a href="https://www.cs.ucf.edu/" target="_blank">Department of Computer Science</a>
-and the <a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">AI Institute</a>
+and the <a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">Institute of AI</a>
 at the <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>.
 
 I received my Ph.D. in <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Electrical and Computer Engineering</a>
