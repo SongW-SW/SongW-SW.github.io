@@ -20,16 +20,13 @@ Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" ta
 from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>,
 where I completed my thesis under the supervision of <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
-📝 My research focuses on **Trustworthy AI** and **Computational Biology**.
-
-
 🤝 **Looking for collaborations to work on impactful projects!**
 
 <!-- 💼 **<span style="color: red;"> I am actively seeking faculty positions! I would greatly appreciate it if you share any opportunities. Thank you!</span>**  --> 
 
 ## 🔍 _Research Interests_
 
-My research aims to tackle real-world challenges in **Adaptive, Generalizable, and Trustworthy AI**, focusing on these topics:
+My research aims to tackle real-world challenges in **Trustworthy AI** and **Computational Biology**, focusing on these topics:
 
   
 - **Data-Efficiency**: My work spans few-shot learning, in-context learning, and transfer learning, to minimize the requirement of supervision for adaptation.
