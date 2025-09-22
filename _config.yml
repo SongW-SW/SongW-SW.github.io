@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Song Wang / Ph.D. Student"
+title                    : "Song Wang"
 description              : ""
 repository               : "SongW-SW/SongW-SW.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Song Wang (王淞)"
   avatar           : "images/photo_defense_half.jpg"
-  bio              : "Ph.D. Student at the University of Virginia"
-  location         : "Charlottesville, VA"
+  bio              : "Assistant Professor at the University of Central Florida"
+  location         : "Orlando, FL"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en"
-  email            : "sw3wv@virginia.edu"
+  email            : "song.wang@ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
