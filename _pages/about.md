@@ -249,9 +249,9 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 
 ## 🐱 _Hobbies and Interests_
 Beyond research, I enjoy:  
-🏊‍🚴🏃 **Triathlon**  
-⚾ **Baseball** 
-🎮 **Esports**, especially competitive League of Legends (Top 0.5% in NA server)
+🏊‍🚴🏃 **Triathlon**    
+⚾ **Baseball**   
+🎮 **Esports**, especially competitive League of Legends (Top 0.5% in NA server)  
 🌟 **Exploration** Applications of AI for social good (e.g., personalized chatbot on social media)
 
 
