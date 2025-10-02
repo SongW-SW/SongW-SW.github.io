@@ -101,6 +101,15 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 
 ### **2025**
 
+- **NeurIPS 2025**: *Efficient MAP Estimation of LLM Ensemble Judgment Performance with Prior Transfer*  
+  Huaizhi Qu, Inyoung Choi, Zhen Tan, **Song Wang**, Sukwon Yun, Qi Long, Faizan Siddiqui, Kwonjoon Lee, Tianlong Chen.
+
+- **NeurIPS 2025**: *Multi-Agent Debate for LLM Judges with Adaptive Stability Detection*  
+  Tianyu Hu, Zhen Tan, **Song Wang**, Huaizhi Qu, Tianlong Chen.
+
+- **NeurIPS 2025**: *Hierarchical Demonstration Order Optimization for Many-shot In-Context Learning*  
+  Yinhan He, Wendy Zheng, **Song Wang**, Zaiyi Zheng, Yushun Dong, Yaochen Zhu, Jundong Li.
+
 - **EMNLP Main**: *AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction*  
   **Song Wang**, Zhen Tan, Zihan Chen, Shuang Zhou, Tianlong Chen, Jundong Li.
   
