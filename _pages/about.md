@@ -101,7 +101,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 
 ### **2025**
 
-- **NeurIPS 2025**: *Efficient MAP Estimation of LLM Ensemble Judgment Performance with Prior Transfer*  
+- **NeurIPS 2025**: *BetaConform: Efficient MAP Estimation of LLM Ensemble Judgment Performance with Prior Transfer*  
   Huaizhi Qu, Inyoung Choi, Zhen Tan, **Song Wang**, Sukwon Yun, Qi Long, Faizan Siddiqui, Kwonjoon Lee, Tianlong Chen.
 
 - **NeurIPS 2025**: *Multi-Agent Debate for LLM Judges with Adaptive Stability Detection*  
