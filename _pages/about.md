@@ -31,7 +31,7 @@ where I completed my thesis under the supervision of <a href="https://www.ee.tsi
 My research aims to tackle real-world challenges in **Trustworthy AI** and **Computational Biology**, focusing on these topics:
 
   
-- **Adaptiveness**: My work spans few-shot learning, in-context learning, and transfer learning, to minimize the requirement of supervision for adaptation.
+- **Adaptability**: My work spans few-shot learning, in-context learning, and transfer learning, to minimize the requirement of supervision for adaptation.
   - **ICML 2025**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning* [**[PDF]**](https://arxiv.org/pdf/2505.16225)   
 Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
   - **NeurIPS 2024**: *Mixture of Demonstrations for In-Context Learning* [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)  
