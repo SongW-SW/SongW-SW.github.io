@@ -112,13 +112,13 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **NeurIPS 2025**: *Hierarchical Demonstration Order Optimization for Many-shot In-Context Learning*  
   Yinhan He, Wendy Zheng, **Song Wang**, Zaiyi Zheng, Yushun Dong, Yaochen Zhu, Jundong Li.
 
-- **EMNLP Main**: *AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction*  
+- **EMNLP Main**: *AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction* [**[PDF]**](https://arxiv.org/pdf/2506.17784)  
   **Song Wang**, Zhen Tan, Zihan Chen, Shuang Zhou, Tianlong Chen, Jundong Li.
   
 - **EMNLP Main**: *Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation*  
   **Song Wang\***, Zihan Chen\*, Peng Wang, Zhepei Wei, Zhen Tan, Yu Meng, Cong Shen, Jundong Li.
 
-- **EMNLP Main**: *Learning from Diverse Reasoning Paths with Routing and Collaboration* [**[PDF]**](https://arxiv.org/pdf/2506.17784)  
+- **EMNLP Main**: *Learning from Diverse Reasoning Paths with Routing and Collaboration*  
   Zhenyu Lei, Zhen Tan, **Song Wang**, Yaochen Zhu, Zihan Chen, Yushun Dong, Jundong Li.
 
 - **EMNLP Findings**: *From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning*  
