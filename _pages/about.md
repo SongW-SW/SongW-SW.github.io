@@ -118,7 +118,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - **EMNLP Main**: *Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation*  
   **Song Wang\***, Zihan Chen\*, Peng Wang, Zhepei Wei, Zhen Tan, Yu Meng, Cong Shen, Jundong Li.
 
-- **EMNLP Main**: *Learning from Diverse Reasoning Paths with Routing and Collaboration*  
+- **EMNLP Main**: *Learning from Diverse Reasoning Paths with Routing and Collaboration* [[**[PDF]**]](https://arxiv.org/pdf/2506.17784)  
   Zhenyu Lei, Zhen Tan, **Song Wang**, Yaochen Zhu, Zihan Chen, Yushun Dong, Jundong Li.
 
 - **EMNLP Findings**: *From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning*  
