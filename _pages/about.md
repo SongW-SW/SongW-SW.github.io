@@ -43,7 +43,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
   - **EMNLP 2023**: *Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*  [**[PDF]**](https://arxiv.org/pdf/2311.01108)  
   **Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li. 
     
-- **Biomedical & Health Informatics**: I study how my research can be extended to interdisciplinary domains such as biomedical informatics and healthcare.
+- **Bioinformatics & Healthcare**: I study how my research can be extended to interdisciplinary domains such as biomedical informatics and healthcare.
   - **AAAI 2025 <span style="color: red;">Oral</span>**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
   **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
   - **bioRxiv 2025**: *GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis* [**[PDF]**](https://www.biorxiv.org/content/10.1101/2025.07.01.662625v3)  
