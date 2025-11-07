@@ -45,7 +45,9 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
     
 - **Biomedical & Health Informatics**: I study how my research can be extended to interdisciplinary domains such as biomedical informatics and healthcare.
   - **AAAI 2025 <span style="color: red;">Oral</span>**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
-  **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.
+  **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
+  - **bioRxiv 2025**: *GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis* [**[PDF]**](https://www.biorxiv.org/content/10.1101/2025.07.01.662625v3)  
+  **Song Wang**, Yuxi Liu, Zhenhao Zhang, Qin Ma, Qianqian Song, Jiang Bian.  
   - **Knowledge-Based Systems 2025**: *A Natural Language Processing-Based Approach for Early Detection of Heart Failure Onset using Electronic Health Records* [**[PDF]**](https://www.medrxiv.org/content/medrxiv/early/2025/04/06/2025.04.04.25325211.full.pdf)  
  Yuxi Liu, Zhen Tan, Zhenhao Zhang,  **Song Wang**, Jingchuan Guo, Huan Liu, Tianlong Chen, Jiang Bian.  
   - **NPJ Digital Medicine 2025**: *Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis*  
