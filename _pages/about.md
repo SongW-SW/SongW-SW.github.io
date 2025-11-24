@@ -60,8 +60,8 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - *2025.08*: &nbsp;🎉 Three papers are accepted at **NeurIPS 2025**! See you in San Diego (definitely)!
 - *2025.08*: &nbsp;🎉 Six papers (two main conference papers are first-authored) are accepted at **EMNLP 2025** (3 main and 3 findings)! See you in Suzhou (maybe)!
 - *2025.07*: &nbsp;🎉 We are hosting [**The 1st Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from LLMs**](https://lock-llm.github.io/) at **NeurIPS 2025**! See you in San Diego!
-- *2025.07*: &nbsp;🎉 One paper **Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning** is accepted at **ECAI 2025**!
-- *2025.07*: &nbsp;🎉 One paper **Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting** is accepted at **COLM 2025**! See you in Montreal!
+<!-- - *2025.07*: &nbsp;🎉 One paper **Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning** is accepted at **ECAI 2025**! -->
+- *2025.07*: &nbsp;🎉 One paper **Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting** is accepted at **COLM 2025**! See you in Montreal! 
 - *2025.05*: &nbsp;🎉 One paper **Fairness-Aware Graph Learning: A Benchmark** is accepted at **KDD 2025 Dataset Track**! See you in Toronto (definitely)!
 - *2025.05*: &nbsp;🎉 One co-first paper **MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning** is accepted at **ICML 2025**! See you in Vancouver! Yes, we named it MAPLE to match the conference location.
 - *2025.01*: &nbsp;🎉 Three papers (one **<span style="color: red;">Spotlight</span>** first-author, one first-author) are accepted at **ICLR 2025**! See you (maybe) in Singapore! 
@@ -70,12 +70,12 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 - *2024.10*: &nbsp;🎉 Two papers are accepted at **EMNLP 2024 Main**! See you in Miami!
 - *2024.10*: &nbsp;🎉 Two papers on **Fairness in Large Language Models** are accepted at **NeurIPS SoLaR <span style="color: red;">(One Spotlight)</span>**!
 - *2024.10*: &nbsp;🎉 Our paper, **"Mixture of Demonstrations for In-Context Learning,"** is accepted at **NeurIPS 2024**! See you in Vancouver!
-- *2024.10*: &nbsp;🎉 One paper is accepted at **IEEE BigData 2024**!
-- *2024.10*: &nbsp;🎉 One paper is accepted at **WSDM 2024**!
-- *2024.10*: &nbsp;🎉 Our paper, **"Federated Graph Learning with Graphless Clients,"** is accepted at **TMLR**! 
+<!-- - *2024.10*: &nbsp;🎉 One paper is accepted at **IEEE BigData 2024**! -->
+<!-- - *2024.10*: &nbsp;🎉 One paper is accepted at **WSDM 2024**! -->
+<!-- - *2024.10*: &nbsp;🎉 Our paper, **"Federated Graph Learning with Graphless Clients,"** is accepted at **TMLR**!  -->
 - *2024.09*: &nbsp;🎉 Published **"Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization"** at **ICDM 2024**.
 - *2024.09*: &nbsp;🎉 Our survey **"Knowledge Editing for Large Language Models: A Survey,"** is accepted at **ACM Computing Surveys**.
-- *2024.07*: &nbsp;🎉 Our paper, **"Understanding and Modeling Job Marketplace with Pretrained Language Models,"** is accepted at **CIKM 2024 Applied Research Track**!
+<!-- - *2024.07*: &nbsp;🎉 Our paper, **"Understanding and Modeling Job Marketplace with Pretrained Language Models,"** is accepted at **CIKM 2024 Applied Research Track**! -->
 - *2024.05*: &nbsp;🎉 Two papers are accepted at **ACL 2024 Findings**!
 - *2024.02*: &nbsp;🎉 Our paper, **"Interpreting Pretrained Language Models via Concept Bottlenecks"**, is accepted at **PAKDD 2024 with <span style="color: red;">Best Paper Award</span>**!
 
