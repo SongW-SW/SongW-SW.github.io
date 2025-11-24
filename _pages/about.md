@@ -100,6 +100,11 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
   _Atlanta, Georgia_
 
 
+## 🧑‍🤝‍🧑 _Group Members_
+
+* [**Tianyu Hu**](https://tyrionhuu.github.io/): PhD Student, CS, 2026 - Present  
+  B.E. in Computer Science, University of Science and Technology of China (USTC)
+
 
 
 
@@ -256,6 +261,10 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 
 
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?user=H_xgjeAAAAAJ&hl=en)
+
+
+
+
 
 ## 💁 _Service and Volunteering_
 - CIKM 2025 Resource/Demo Track Senior PC Member.  
