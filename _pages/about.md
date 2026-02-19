@@ -57,6 +57,7 @@ Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
 
 
 ## 🔥 _News and Updates_
+- *2026.01*: &nbsp;🎉 Four papers are accepted at **ICLR 2026**! See you in Rio de Janeiro (virtually)!
 - *2025.08*: &nbsp;🎉 Three papers are accepted at **NeurIPS 2025**! See you in San Diego (definitely)!
 - *2025.08*: &nbsp;🎉 Six papers (two main conference papers are first-authored) are accepted at **EMNLP 2025** (3 main and 3 findings)! See you in Suzhou (maybe)!
 - *2025.07*: &nbsp;🎉 We are hosting [**The 1st Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from LLMs**](https://lock-llm.github.io/) at **NeurIPS 2025**! See you in San Diego!
