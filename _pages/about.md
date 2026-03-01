@@ -28,9 +28,6 @@ where I completed my thesis under the supervision of <a href="https://www.ee.tsi
 
 ## 🔍 _Research Interests_
 
-My research aims to tackle real-world challenges in **Trustworthy AI** and **Computational Biology**, focusing on these topics:
-
-Research
 Our lab explores four interconnected themes, unified by the goal of building AI that is safe, adaptive, and grounded in real-world impact. Representative papers for each direction are highlighted.
 
 - 🤖 Agentic AI
