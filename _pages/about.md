@@ -51,8 +51,8 @@ h4, .page__content h4, .page h4, article h4, #main h4 { font-size: 18px !importa
 .pub-text { padding: 8px; width: 80%; }
 .pub-text p { font-size: 15px; color: #555; }
 /* Increase spacing between sections */
-h2 { margin-top: 40px !important; margin-bottom: 16px !important; }
-h3 { margin-top: 28px !important; margin-bottom: 12px !important; }
+h2, .page__content h2, .page h2, article h2, #main h2, .archive h2 { margin-top: 40px !important; margin-bottom: 16px !important; }
+h3, .page__content h3, .page h3, article h3, #main h3 { margin-top: 28px !important; margin-bottom: 12px !important; }
 </style>
 
 
