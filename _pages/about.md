@@ -22,7 +22,7 @@ where I completed my thesis under the supervision of <a href="https://www.ee.tsi
 
 📢 I am actively recruiting motivated Ph.D. students interested in machine learning, trustworthy AI, and interdisciplinary applications in bioinformatics. If you are interested, please feel free to reach out!
 
-🤝 **Looking for collaborations to work on impactful projects!**
+<!-- 🤝 **Looking for collaborations to work on impactful projects!** --> 
 
 <!-- 💼 **<span style="color: red;"> I am actively seeking faculty positions! I would greatly appreciate it if you share any opportunities. Thank you!</span>**  --> 
 
