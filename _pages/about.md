@@ -19,9 +19,9 @@ body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(
 }
 /* Global font size override */
 body, p, li, td, th, tr, a, span, em, strong { font-size: 17px !important; }
-h2 { font-size: 27px !important; }
-h3 { font-size: 21px !important; }
-h4 { font-size: 18px !important; }
+h2, .page__content h2, .page h2, article h2, #main h2, .archive h2 { font-size: 27px !important; }
+h3, .page__content h3, .page h3, article h3, #main h3 { font-size: 21px !important; }
+h4, .page__content h4, .page h4, article h4, #main h4 { font-size: 18px !important; }
 /* Restore icon fonts */
 .fa, .fas, .far, .fab, .fal, .fad { font-family: 'Font Awesome 5 Free' !important; font-weight: 900 !important; }
 .fab { font-family: 'Font Awesome 5 Brands' !important; font-weight: 400 !important; }
