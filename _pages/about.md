@@ -30,30 +30,27 @@ where I completed my thesis under the supervision of <a href="https://www.ee.tsi
 
 My research aims to tackle real-world challenges in **Trustworthy AI** and **Computational Biology**, focusing on these topics:
 
-  
-- **Adaptive LLMs/Agents**: My work spans few-shot learning, in-context learning, and transfer learning, to minimize the requirement of supervision for adaptation.
-  - **EMNLP Main**: *AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction* [**[PDF]**](https://arxiv.org/pdf/2506.17784)   
-  **Song Wang**, Zhen Tan, Zihan Chen, Shuang Zhou, Tianlong Chen, Jundong Li.  
-  - **ICML 2025**: *MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning* [**[PDF]**](https://arxiv.org/pdf/2505.16225)   
-Zihan Chen\*, **Song Wang\***, Zhen Tan, Jundong Li, Cong Shen.
-  - **NeurIPS 2024**: *Mixture of Demonstrations for In-Context Learning* [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)  
-  **Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li.  
-  
-- **Trustworthy AI in Security and Robustness**: My research investigates the theoretical and empirical foundations of model robustness in the presence of noisy data and distribution shifts for real-world deployment scenarios.
-  - **TMLR 2025**: *Generative Risk Minimization for Out-of-Distribution Generalization on Graphs* [**[PDF]**](https://openreview.net/pdf?id=EcMVskXo1n)  
-**Song Wang**, Zhen Tan, Yaochen Zhu, Chuxu Zhang, Jundong Li.
-  - **EMNLP 2023**: *Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*  [**[PDF]**](https://arxiv.org/pdf/2311.01108)  
-  **Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li. 
+Research
+Our lab explores four interconnected themes, unified by the goal of building AI that is safe, adaptive, and grounded in real-world impact. Representative papers for each direction are highlighted.
+
+- 🤖 Agentic AI
+  - Multi-agent collaboration, adaptive reasoning, and autonomous decision-making with LLM-based agents.
+
+  - Multi-Agent Debate In-Context Learning Chain-of-Thought RAG
     
-- **Bioinformatics & Healthcare**: I study how my research can be extended to interdisciplinary domains such as biomedical informatics and healthcare.
-  - **AAAI 2025 <span style="color: red;">Oral</span>**: *BrainMAP: Learning Multiple Activation Pathways in Brain Networks* [**[PDF]**](https://arxiv.org/pdf/2412.17404)   
-  **Song Wang\***, Zhenyu Lei\*, Zhen Tan, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li.  
-  - **bioRxiv 2025**: *GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis* [**[PDF]**](https://www.biorxiv.org/content/10.1101/2025.07.01.662625v3)  
-  **Song Wang**, Yuxi Liu, Zhenhao Zhang, Qin Ma, Qianqian Song, Jiang Bian.  
-  - **Knowledge-Based Systems 2025**: *A Natural Language Processing-Based Approach for Early Detection of Heart Failure Onset using Electronic Health Records* [**[PDF]**](https://www.medrxiv.org/content/medrxiv/early/2025/04/06/2025.04.04.25325211.full.pdf)  
- Yuxi Liu, Zhen Tan, Zhenhao Zhang,  **Song Wang**, Jingchuan Guo, Huan Liu, Tianlong Chen, Jiang Bian.  
-  - **NPJ Digital Medicine 2025**: *Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis*  
-    Shuang Zhou, Jiashuo Wang, Zidu Xu, **Song Wang**, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
+- 📚 Multi-Modal
+  - Bridging vision, language, and structured knowledge for richer AI understanding and reasoning.
+  - Knowledge Graphs + LLMs Cross-Modal RAG Vision-Language
+
+- ✅ Trustworthy AI
+  - Fairness, robustness, and safety of LLMs and graph-based models under distribution shifts.
+  - LLM Fairness Robustness OOD Generalization Safety
+    
+- 🏥 Medical AI
+  - AI for healthcare: spatial transcriptomics, brain connectivity, clinical NLP, and biomedical discovery.
+  - Spatial Transcriptomics Brain Networks Clinical NLP
+
+  
 
 
 ## 🔥 _News and Updates_
