@@ -45,6 +45,9 @@ body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(
 .pub-img div { width: 140px; height: 105px; border-radius: 8px; display: flex; align-items: center; justify-content: center; }
 .pub-text { padding: 8px; width: 80%; }
 .pub-text p { font-size: 15px; color: #555; }
+/* Increase spacing between sections */
+h2 { margin-top: 40px !important; margin-bottom: 16px !important; }
+h3 { margin-top: 28px !important; margin-bottom: 12px !important; }
 </style>
 
 
