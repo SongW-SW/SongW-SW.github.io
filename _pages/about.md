@@ -25,9 +25,9 @@ body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(
 .research-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0; }
 @media (max-width: 768px) { .research-grid { grid-template-columns: 1fr; } }
 .rc { background: #f8f9fa; border-radius: 10px; padding: 16px 18px; border-left: 4px solid #1772d0; }
-.rc h4 { margin: 0 0 6px 0; font-size: 16px; }
-.rc p { font-size: 14px; color: #555; margin: 0 0 8px 0; line-height: 1.5; }
-.rc .tags span { display: inline-block; background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 2px 9px; font-size: 12px; color: #666; margin: 2px 2px 2px 0; }
+.rc h4 { margin: 0 0 6px 0; font-size: 17px; }
+.rc p { font-size: 15px; color: #555; margin: 0 0 8px 0; line-height: 1.5; }
+.rc .tags span { display: inline-block; background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 2px 9px; font-size: 13px; color: #666; margin: 2px 2px 2px 0; }
 .rc-a { border-left-color: #1772d0; }
 .rc-a h4 { color: #1772d0; }
 .rc-m { border-left-color: #8e44ad; }
@@ -37,14 +37,14 @@ body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(
 .rc-med { border-left-color: #e74c3c; }
 .rc-med h4 { color: #c0392b; }
 .join-box { background: #f0f7ff; border: 1px solid #d0e3f7; border-radius: 10px; padding: 20px 24px; margin: 12px 0; }
-.join-box p { font-size: 15px; color: #444; line-height: 1.6; }
-.papertitle { font-size: 15px; font-weight: 700; }
+.join-box p { font-size: 16px; color: #444; line-height: 1.6; }
+.papertitle { font-size: 16px; font-weight: 700; }
 .pub-table { width: 100%; border: 0; border-spacing: 0 10px; border-collapse: separate; }
 .pub-table td { vertical-align: middle; }
 .pub-img { padding: 12px; width: 20%; }
 .pub-img div { width: 140px; height: 105px; border-radius: 8px; display: flex; align-items: center; justify-content: center; }
 .pub-text { padding: 8px; width: 80%; }
-.pub-text p { font-size: 14px; color: #555; }
+.pub-text p { font-size: 15px; color: #555; }
 </style>
 
 
