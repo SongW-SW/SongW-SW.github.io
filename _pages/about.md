@@ -18,10 +18,10 @@ body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(
   font-weight: 700 !important;
 }
 /* Global font size override */
-body, p, li, td, th, tr, a, span, em, strong { font-size: 16px !important; }
-h2 { font-size: 24px !important; }
-h3 { font-size: 20px !important; }
-h4 { font-size: 17px !important; }
+body, p, li, td, th, tr, a, span, em, strong { font-size: 17px !important; }
+h2 { font-size: 25px !important; }
+h3 { font-size: 21px !important; }
+h4 { font-size: 18px !important; }
 /* Restore icon fonts */
 .fa, .fas, .far, .fab, .fal, .fad { font-family: 'Font Awesome 5 Free' !important; font-weight: 900 !important; }
 .fab { font-family: 'Font Awesome 5 Brands' !important; font-weight: 400 !important; }
