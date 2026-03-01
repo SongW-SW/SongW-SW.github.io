@@ -10,8 +10,18 @@ redirect_from:
 <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
-* { font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important; }
-body, td, th, tr, p, a, span, em, li, h1, h2, h3, h4, strong { font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important; font-weight: 700 !important; }
+*:not(.fa):not(.fas):not(.far):not(.fab):not(.fal):not(.fad):not(.ai):not([class^="icon"]) {
+  font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important;
+}
+body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(.fas):not(.fab):not(.ai), em, li, h1, h2, h3, h4, strong {
+  font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important;
+  font-weight: 700 !important;
+}
+/* Restore icon fonts */
+.fa, .fas, .far, .fab, .fal, .fad { font-family: 'Font Awesome 5 Free' !important; font-weight: 900 !important; }
+.fab { font-family: 'Font Awesome 5 Brands' !important; font-weight: 400 !important; }
+.ai { font-family: 'Academicons' !important; font-weight: normal !important; }
+[class^="icon-"], [class*=" icon-"] { font-family: inherit !important; }
 .research-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0; }
 @media (max-width: 768px) { .research-grid { grid-template-columns: 1fr; } }
 .rc { background: #f8f9fa; border-radius: 10px; padding: 16px 18px; border-left: 4px solid #1772d0; }
@@ -36,6 +46,7 @@ body, td, th, tr, p, a, span, em, li, h1, h2, h3, h4, strong { font-family: 'Com
 .pub-text { padding: 8px; width: 80%; }
 .pub-text p { font-size: 14px; color: #555; }
 </style>
+
 
 ## 🎓 *About Me*
 
