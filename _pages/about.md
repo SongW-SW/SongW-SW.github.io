@@ -62,7 +62,7 @@ h3, .page__content h3, .page h3, article h3, #main h3 { margin-top: 28px !import
 and the <a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">Institute of AI</a>
 at the <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>.
 
-I received my Ph.D. in <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">ECE</a>
+📖 I received my Ph.D. in <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">ECE</a>
 from the <a href="https://www.virginia.edu/" target="_blank">University of Virginia</a>,
 where I was fortunately advised by <a href="https://jundongli.github.io/" target="_blank">Prof. Jundong Li</a>.
 Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">EE</a>
