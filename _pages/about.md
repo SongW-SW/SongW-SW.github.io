@@ -62,15 +62,14 @@ h3, .page__content h3, .page h3, article h3, #main h3 { margin-top: 28px !import
 and the <a href="https://www.ucf.edu/institute-of-artificial-intelligence/" target="_blank">Institute of AI</a>
 at the <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a>.
 
-I received my Ph.D. in <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">Electrical and Computer Engineering</a>
+I received my Ph.D. in <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering" target="_blank">ECE</a>
 from the <a href="https://www.virginia.edu/" target="_blank">University of Virginia</a>,
 where I was fortunately advised by <a href="https://jundongli.github.io/" target="_blank">Prof. Jundong Li</a>.
-Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Electronic Engineering</a>
-from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>,
-where I completed my thesis under the supervision of <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
+Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">EE</a>
+from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, under the supervision of <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
-📢 I am actively recruiting motivated Ph.D. students interested in trustworthy AI, LLM agents, and interdisciplinary applications in bioinformatics and healthcare. I am also open to collaborations with Master's students, undergraduates, and visiting researchers. 
-Please email me with your CV and a brief description of your research interests. Include [Prospective Student/Intern] in the subject line.
+📢 I am actively recruiting motivated Ph.D. students interested in trustworthy AI, agents, and applications in bioinformatics and healthcare. I am also open to collaborations with remote interns and visiting researchers. 
+
 
 <!-- 🤝 **Looking for collaborations to work on impactful projects!** --> 
 
