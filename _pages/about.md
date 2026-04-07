@@ -82,19 +82,19 @@ Our lab explores four interconnected themes, unified by the goal of building AI 
 - 🤖 Agentic AI
   - Multi-agent collaboration, adaptive reasoning, and autonomous decision-making with LLM-based agents.
 
-  - Multi-Agent Debate In-Context Learning Chain-of-Thought RAG
+  - Multi-Agent Debate, In-Context Learning, Chain-of-Thought, RAG
     
 - 📚 Multi-Modal
   - Bridging vision, language, and structured knowledge for richer AI understanding and reasoning.
-  - Knowledge Graphs + LLMs Cross-Modal RAG Vision-Language
+  - Knowledge Graphs, Cross-Modal Reasoning, Vision-Language
 
 - ✅ Trustworthy AI
   - Fairness, robustness, and safety of LLMs and graph-based models under distribution shifts.
-  - LLM Fairness Robustness OOD Generalization Safety
+  - LLM Fairness, Robustness, OOD Generalization, Safety
     
 - 🏥 Medical AI
   - AI for healthcare: spatial transcriptomics, brain connectivity, clinical NLP, and biomedical discovery.
-  - Spatial Transcriptomics Brain Networks Clinical NLP
+  - Spatial Transcriptomics, Brain Networks, Clinical NLP
 
   
 
