@@ -100,6 +100,7 @@ Our lab explores four interconnected themes, unified by the goal of building AI 
 
 
 ## 🔥 _News and Updates_
+- *2026.06*: &nbsp;🎉 Four papers are accepted at **ICML 2026**! See you in Seoul (virtually)!  
 - *2026.01*: &nbsp;🎉 Four papers are accepted at **ICLR 2026**! See you in Rio de Janeiro (virtually)!
 - *2025.08*: &nbsp;🎉 Three papers are accepted at **NeurIPS 2025**! See you in San Diego (definitely)!
 - *2025.08*: &nbsp;🎉 Six papers (two main conference papers are first-authored) are accepted at **EMNLP 2025** (3 main and 3 findings)! See you in Suzhou (maybe)!
