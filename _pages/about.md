@@ -329,8 +329,7 @@ Feel free to contact me for collaborations, research discussions, or just to con
 ## 🌍 _Visits_
 
 <div id="clustrmaps-container" style="width: 80%; max-width: 500px; height: auto;">
-  <script type="text/javascript" id="clustrmaps" 
-          src="//clustrmaps.com/map_v2.js?d=bTOBa6-Y762tr6vZjdXQ-78aTv2T-a2wjIMLKIuRjoE&cl=ffffff&w=a">
+  <script type="text/javascript" id="clustrmaps"
+          src="https://clustrmaps.com/map_v2.js?d=bTOBa6-Y762tr6vZjdXQ-78aTv2T-a2wjIMLKIuRjoE&cl=ffffff&w=a">
   </script>
 </div>
-
