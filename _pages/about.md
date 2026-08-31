@@ -68,7 +68,7 @@ where I was fortunately advised by <a href="https://jundongli.github.io/" target
 Before that, I earned my B.E. in <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">EE</a>
 from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, under the supervision of <a href="https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm" target="_blank">Prof. Ji Wu</a>.
 
-📢 I am actively recruiting motivated Ph.D. students interested in trustworthy AI, agents, and applications in bioinformatics and healthcare. I am also open to collaborations with remote interns and visiting researchers. 
+📢 I am actively recruiting motivated Ph.D. students interested in trustworthy AI, agents, and applications in bioinformatics and healthcare. I am also open to collaborations with remote interns and visiting researchers. (Due to the large volume of inquiries, I may not be able to respond to every email.)
 
 
 <!-- 🤝 **Looking for collaborations to work on impactful projects!** --> 
