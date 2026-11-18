@@ -150,6 +150,12 @@ Our lab explores four interconnected themes, unified by the goal of building AI 
 * [**Tianyu Hu**](https://tyrionhuu.github.io/): PhD Student, CS, 2026 - Present  
   B.E. in Computer Science, University of Science and Technology of China (USTC)
 
+* **Ziwen Kan**: PhD Student
+
+* **Bo Yan**: PhD Student
+
+* **Bian Sun**: PhD Student
+
 
 
 
