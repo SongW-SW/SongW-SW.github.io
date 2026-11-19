@@ -147,14 +147,13 @@ Our lab explores four interconnected themes, unified by the goal of building AI 
 
 ## 🧑‍🤝‍🧑 _Group Members_
 
-* [**Tianyu Hu**](https://tyrionhuu.github.io/): PhD Student, CS, 2026 - Present  
-  B.E. in Computer Science, University of Science and Technology of China (USTC)
+* [**Tianyu Hu**](https://tyrionhuu.github.io/): PhD Student, CS, 2026 - Present
 
-* **Ziwen Kan**: PhD Student
+* [**Ziwen Kan**](https://ai.ucf.edu/people/students/#:~:text=Ziwen%20Kan): PhD Student
 
-* **Bo Yan**: PhD Student
+* [**Bo Yan**](https://ai.ucf.edu/people/students/#:~:text=Bo%20Yan): PhD Student
 
-* **Bian Sun**: PhD Student
+* [**Bian Sun**](https://ai.ucf.edu/people/students/#:~:text=Bian%20Sun): PhD Student
 
 
 
